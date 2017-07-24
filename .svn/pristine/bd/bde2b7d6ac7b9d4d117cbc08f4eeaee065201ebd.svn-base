@@ -1,0 +1,56 @@
+{
+  "templates" : {
+    "template_mj_gz_01" : [
+      {
+        "alphaVersion" : 4,
+        "autoDownloadCondition" : 0,
+        "des" : ">> 优化游戏性能\n>> 增加牌局回放\n>> 修改暗杠显示方式\n>> 增加牌桌语音聊天\n",
+        "force" : "1",
+        "id" : 4,
+        "md5" : "5474b867a811e9310e42f517e97056e2",
+        "path" : "http://df.dl.shediao.com/cdn37/majiang/difang/apk/3.775youlegzmj.apk",
+        "size" : "28MB",
+        "updateAt" : "front"
+      }
+    ],
+    "template_mj_hn_01" : [
+      {
+        "alphaVersion" : 4,
+        "autoDownloadCondition" : 0,
+        "des" : ">> 优化游戏性能\n>> 增加牌局回放\n>> 修改暗杠显示方式\n>> 增加牌桌语音聊天\n",
+        "force" : "1",
+        "id" : 4,
+        "md5" : "76d4ddd2590777cbe4b5915c7a493ab4",
+        "path" : "http://df.dl.shediao.com/cdn37/majiang/difang/apk/3.775youlehnmj.apk",
+        "size" : "28MB",
+        "updateAt" : "front"
+      }
+    ],
+    "template_mj_sc_01" : [
+      {
+        "alphaVersion" : 4,
+        "autoDownloadCondition" : 0,
+        "des" : ">> 优化游戏性能\n>> 增加牌局回放\n>> 修改暗杠显示方式\n>> 增加牌桌语音聊天\n",
+        "force" : "1",
+        "id" : 4,
+        "md5" : "383c420db810b0359dcc3030c47cc7c3",
+        "path" : "http://df.dl.shediao.com/cdn37/majiang/difang/apk/3.775youlescmj.apk",
+        "size" : "28MB",
+        "updateAt" : "front"
+      }
+    ],
+    "template_phz_youle" : [
+      {
+        "alphaVersion" : 4,
+        "autoDownloadCondition" : 0,
+        "des" : ">> 优化游戏性能\n>> 增加牌局回放\n>> 修改暗杠显示方式\n>> 增加牌桌语音聊天\n",
+        "force" : "1",
+        "id" : 4,
+        "md5" : "12483b5f31f49fe9ef884cb217f59b70",
+        "path" : "http://df.dl.shediao.com/cdn37/majiang/difang/apk/3.788youlehnphz.apk",
+        "size" : "28MB",
+        "updateAt" : "front"
+      }
+    ]
+  }
+}

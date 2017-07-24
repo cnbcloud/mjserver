@@ -1,0 +1,65 @@
+{
+    "configDesc": "麻将房间其他相关配置,例如:比赛的标签配置,自建桌",
+    "create_table_config": {
+    	"queshou-lianjiang": {
+                    "playModeDesc": "连江麻将",
+                    "paramType": {
+                        "cardCount": "游戏局数",
+                        "wanFa": "玩法",
+                        "playerType": "人数",
+                        "fangHu": "放胡",
+                        "qinghunyise":"清混一色",
+			"lianzhuangjiaju":"连庄加局",
+                        "fangka_pay":"支付方式"
+                    },
+		    "fangka_pay":[
+			{"id": 0, "value":0, "desc":"房主支付", "default": 1},
+                        {"id": 1, "value":1, "desc":"大赢家付", "default": 0}
+		    ],	
+                    "cardCount":[
+                        {"id": 1, "value":4, "desc":"4局(限免)", "default": 1, "fangka_count": 0},
+			{"id": 2, "value":8, "desc":"8局(限免)", "default": 0, "fangka_count": 0},
+                        {"id": 3, "value":16, "desc":"16局(限免)", "default": 0, "fangka_count": 0}
+                    ],
+                    "wanFa":[
+                        {"id": "qinghunyise","desc":"清混一色","default":0},
+			{"id": "lianzhuangjiaju","desc":"连庄加局","default":0}
+                    ],
+                    "playerType":[
+			{"id": 1, "desc": "2人", "default": 0, "count":2},
+			{"id": 2, "desc": "3人", "default": 0, "count":3},
+			{"id": 3, "desc": "4人", "default": 1, "count":4}
+                    ],
+                    "fangHu": [
+                        {"id": 1,"value":1, "desc": "放胡全赔", "default": 1},
+			{"id": 2,"value":2, "desc": "放胡单赔", "default": 0}
+                    ],
+                    "qinghunyise":[
+                        {"id":0, "desc":"清混一色(关闭)", "default": 0,"qinghunyise": 0},
+                        {"id":1, "desc":"清混一色", "default": 1,"qinghunyise": 1}
+                    ],
+                    "lianzhuangjiaju":[
+                        {"id":0, "desc":"连庄不加", "default": 0,"lianzhuangjiaju": 0},
+                        {"id":1, "desc":"连庄加局", "default": 1,"lianzhuangjiaju": 1}
+                    ]
+            	}
+    },
+    "create_table_weixin_invite_info": {
+        "title": "麻将找脚啦",
+        "des": "房间号：$##table_no##,$##play_mode##,$##card_count##局",
+        "url": "http://landing.shediao.com/qipai/queshou/lianjiang.html",
+        "type": "1"
+    },
+    "create_table_weixin_inivite_desc_key": [
+        "cardCount"
+    ],
+    "leave_countdown": 2,
+    "create_table_leave_success": "解散牌桌成功",
+    "create_table_leave_failure": "解散牌桌失败，继续游戏",
+    "create_table_init_fangka": 24,
+    "create_table_countdown": 60,
+    "playmode_forbid_return_fanka": [],
+    "playmode_desc_map": {
+    "queshou-lianjiang":"连江麻将"
+    }
+}

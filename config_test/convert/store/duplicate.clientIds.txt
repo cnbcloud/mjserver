@@ -1,0 +1,520 @@
+{
+    "Android_3.2_kugou.weakChinaMobile.0.kugou.kugouydmm": [
+        "goods_conf_dizhu_old_ykl", 
+        "goods_conf_dizhu_old_ykl"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.nearme.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.rich": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_meizu.YDJD.0-hall6.meizu.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.haerbin": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile.0-hall6.ydmm.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.people": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile.0-hall6.ydmm.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5_80zuan_mubao_novip"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.mi.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,YDJD.0-hall6.duokunew.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.501_YDJD.YDJD.0-hall6.ydjd.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.501_meizu.meizu,weakChinaMobile,woStore,aigame,YDJD.0-hall6.meizu.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.huanliang.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.jinligame.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.weakChinaMobile.0-hall7.mayi.fk": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.sougou.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.jinligame.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.muzhi.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.leshiydjd.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.375_360.360.0-hall8.360.rich": [
+        "goods_conf_3_37_texas_hall", 
+        "goods_conf_3_37_texas_hall"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.wandou.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.win": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.sohuvideo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.tianqiwang.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,YDJD.0-hall6.bdtiebanew.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.60_360.360.0-hall6.360.day": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.wandou.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile.0-hall6.ydmm.kugou": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_2.9_kugouChinaMobile": [
+        "goods_conf_dizhu_old_ykl", 
+        "goods_conf_dizhu_old_ykl"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.huawei.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.day": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.day": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_meizu.YDJD.0-hall6.meizu.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "IOS_3.503_tuyoo.appStore.0-hall7.appStore.kuaile": [
+        "goods_conf_mj_hall_ios_3_501_novip", 
+        "goods_conf_mj_hall_ydmm_3_502"
+    ], 
+    "Android_3.501_huawei.huawei,weakChinaMobile,woStore,aigame,YDJD.0-hall6.huawei.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.cocosplay4.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall7.ydmm.tu": [
+        "goods_conf_mj_hall_ydmm_3_502", 
+        "goods_conf_mj_hall_ydmm_ext"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile.0-hall6.ydmm.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.haerbin": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.502_360.360,weakChinaMobile.0-hall6.360.laizi": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.rich": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.tianqiwang.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.375_360.360.0-hall8.360.win": [
+        "goods_conf_3_37_texas_hall", 
+        "goods_conf_3_37_texas_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.erren": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.lenovo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.cocosplay5.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile.0-hall6.ydmm.jinri": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.meitu.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.375_360.360.0-hall8.360.day": [
+        "goods_conf_3_37_texas_hall", 
+        "goods_conf_3_37_texas_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.ydjd.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.weakChinaMobile.0-hall7.wangyi.fk": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.people": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.leshi.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.503_tuyoo.woStore,aigame,YDJD.0-hall6.seodownload.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_weixin"
+    ], 
+    "Android_3.501_pps.pps,weakChinaMobile,woStore,aigame,YDJD.0-hall6.pps.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.375_360.360.0-hall8.360.mg": [
+        "goods_conf_3_37_texas_hall", 
+        "goods_conf_3_37_texas_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.day": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.5012_nearme.nearme,weakChinaMobile,woStore,YDJD.0-hall6.oppo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.wangyi.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.qq.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.5010_mi.mi,weakChinaMobile,woStore,aigame,YDJD.0-hall6.mi.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile.0-hall6.ydmm.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.cocosplay1.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.haerbin": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,YDJD.0-hall6.91new.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.erren": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.win": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_yyduowan.yyduowan.0-hall6.yygame.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.70_360.360.0-hall6.360.day": [
+        "goods_conf_3.7_alpha", 
+        "goods_conf_3_5", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.haerbin": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.erren": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.ydjd.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.cocosplay3.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.501_mi.mi,weakChinaMobile,woStore,aigame,YDJD.0-hall6.mi.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.mayi.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.apphui.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.youku.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_2.2_360.360.0.360.fkdn": [
+        "goods_conf_douniu_2_2_android", 
+        "goods_conf_douniu_2_2_android"
+    ], 
+    "Android_3.503_tuyoo.lenovo,weakChinaMobile,woStore,aigame,YDJD.0-hall6.lenovo.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.qihoosearch.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_YDJD.YDJD.0-hall6.ydjd.happy": [
+        "goods_conf_3_5", 
+        "goods_conf_dj_qudao_tishen_ydjd_5_8"
+    ], 
+    "Android_3.501_tuyoo.aigame.0-hall6.huabeidianhua.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.erren": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.YDJD.0-hall6.ydjd.dj": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.rich": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.qq.people": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile.0-hall6.ydmm.happy": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.ydjd.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.37_tuyoo.weakChinaMobile.0-hall7.wandou.fk": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.5011_nearme.nearme,weakChinaMobile,woStore,YDJD.0-hall6.oppo.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.sougou.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.cocosplay2.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.503_tuyoo.woStore,aigame,YDJD.0-hall6.seowechat.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_weixin"
+    ], 
+    "Android_3.37_360.360,weakChinaMobile,woStore.0-hall7.360.fk": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.37_tuyoo.weakChinaMobile.0-hall7.qq.fk": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.363_tuyoo.aigame.0-hall6.huabeidianhua.dj": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.5010_tuyoo.lenovo,weakChinaMobile,woStore,aigame,YDJD.0-hall6.lenovo.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wangyi.win": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.5030_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.qq.happy": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_weixin"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.apphui.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.googleplay.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.5010_nearme.nearme,weakChinaMobile,woStore,aigame,YDJD.0-hall6.oppo.dj": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.5011_nearme.nearme,weakChinaMobile,woStore,YDJD.0-hall6.oppo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.day": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.miydjd.midanji": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,YDJD.0-hall6.baidunew.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.37_tuyoo.woStore.0-hall6.itwo.dj": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.win": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.vivo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.362_tuyoo.weakChinaMobile.0-hall7.qq.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.503_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.sohuvideo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.mayi.people": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.2345.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.baidusousuoml.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ], 
+    "Android_3.501_YDJD.YDJD.0-hall6.ydjd.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_dj_qudao_tishen_ydjd_5_8"
+    ], 
+    "Android_3.501_tuyoo.weakChinaMobile,woStore,aigame,YDJD.0-hall6.meitu.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.sohuvideo.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.coolpad.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.501_tuyoo.lenovo,weakChinaMobile,woStore,aigame,YDJD.0-hall6.lenovo.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.37_360.360,weakChinaMobile,woStore.0-hall7.360.sc": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.YDJD.0-hall6.baidusearch.tu": [
+        "goods_conf_3_5_80zuan_mubao_novip", 
+        "goods_conf_3_5"
+    ], 
+    "Android_3.37_tuyoo.lenovo,weakChinaMobile,woStore,aigame.0-hall7.lenovo.dj": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_tuyoo.woStore,aigame,YDJD.0-hall6.leshiphone.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_80zuan"
+    ], 
+    "Android_3.37_tuyoo.tuyoo.0-hall7.wandou.rich": [
+        "goods_conf_mj_hall", 
+        "goods_conf_mj_hall"
+    ], 
+    "Android_3.501_nearme.nearme,weakChinaMobile,woStore,YDJD.0-hall6.oppo.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.501_mi.mi,weakChinaMobile,woStore,aigame,YDJD.0-hall6.mi.tu": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "IOS_3.501_tuyoo.appStore.0-hall7.tuyoo.cherry": [
+        "goods_conf_mj_hall_ios_3_502", 
+        "goods_conf_mj_hall_ios_3_501"
+    ], 
+    "Android_3.501_tuyoo.lenovo,weakChinaMobile,woStore,aigame,YDJD.0-hall6.lenovo.dj": [
+        "goods_conf_3_5", 
+        "goods_conf_3_5_no1000zuan"
+    ], 
+    "Android_3.372_tuyoo.weakChinaMobile.0-hall6.tuyoo.tu": [
+        "goods_conf_3_372_new_80zhuan", 
+        "goods_conf_3_372_new_80zhuan"
+    ]
+}

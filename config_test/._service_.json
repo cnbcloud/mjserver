@@ -1,0 +1,1208 @@
+{
+    "cmddict" : {
+        "CT" : {}, 
+        "GR" : {
+            "betpool_tableid" : {
+                "desc" : "\u5730\u4e3b\u5f69\u6c60"
+            }, 
+            "fanfanle_tableid" : {
+                "desc" : "\u7ffb\u7ffb\u4e50\u5c0f\u6e38\u620f"
+            }, 
+            "room" : {
+                "desc" : "\u623f\u95f4\u547d\u4ee4\u5165\u53e3"
+            }
+        }, 
+        "GROUP_MATCH" : [
+            "m_enter#", 
+            "room#enter", 
+            "m_leave#", 
+            "room#leave", 
+            "m_signin#", 
+            "room#signin", 
+            "m_signout#", 
+            "room#signout", 
+            "m_update#", 
+            "room#update", 
+            "room#giveup"
+        ], 
+        "GT" : {
+            "betpool" : {
+                "desc" : "\u5f69\u6c60"
+            }, 
+            "fanfanle" : {
+                "desc" : "\u7ffb\u7ffb\u4e50\u5c0f\u6e38\u620f"
+            }, 
+            "table" : {
+                "desc" : "\u684c\u9762\u547d\u4ee4(\u51fa\u724c\u9664\u5916)"
+            }, 
+            "table_call" : {
+                "desc" : "\u684c\u9762\u51fa\u724c\u547d\u4ee4"
+            }
+        }, 
+        "NOT_USED" : {
+            "fivestar_rating" : {
+                "desc" : "\u5e9f\u5f03\u547d\u4ee4"
+            }, 
+            "get_ad_info" : {
+                "desc" : "\u5e9f\u5f03\u547d\u4ee4"
+            }, 
+            "get_rank_list" : {
+                "desc" : "\u5e9f\u5f03\u547d\u4ee4"
+            }, 
+            "item_list" : {
+                "desc" : "\u5e9f\u5f03\u547d\u4ee4"
+            }, 
+            "medal_reward" : {
+                "desc" : "\u5e9f\u5f03\u547d\u4ee4"
+            }
+        }, 
+        "UT" : {
+            "act" : {
+                "desc" : "\u6d3b\u52a8"
+            }, 
+            "activity_fish" : {
+                "desc" : "\u6355\u9c7c\u6d3b\u52a8"
+            }, 
+            "activity_pc" : {
+                "desc" : "pc\u6d3b\u52a8"
+            }, 
+            "ads" : {
+                "desc" : "\u5e7f\u544a"
+            }, 
+            "assistance" : {
+                "desc" : "\u6c5f\u6e56\u6551\u6025"
+            }, 
+            "bag" : {
+                "desc" : "3.7\u4e4b\u524d\u7684\u9053\u5177\u534f\u8bae"
+            }, 
+            "buy_prod" : {
+                "desc" : "\u8001\u7248\u672c\u5546\u54c1\u8d2d\u4e70"
+            }, 
+            "change_name" : {
+                "desc" : "\u6539\u540d"
+            }, 
+            "complain" : {
+                "desc" : "\u6295\u8bc9"
+            }, 
+            "custom_rank" : {
+                "desc" : "\u6392\u884c\u699c"
+            }, 
+            "daily_quest" : {
+                "desc" : "\u6355\u9c7c\u6bcf\u65e5\u4efb\u52a1"
+            }, 
+            "decoration" : {
+                "desc" : "\u88c5\u9970\u9053\u5177"
+            }, 
+            "dizhu" : {
+                "desc" : "\u5730\u4e3b\u516c\u7528"
+            }, 
+            "every_task" : {
+                "desc" : "\u4efb\u52a1"
+            }, 
+            "exchange" : {
+                "desc" : "\u5151\u6362"
+            }, 
+            "fish_benefits" : {
+                "desc" : "\u6355\u9c7c\u6551\u6d4e\u91d1"
+            }, 
+            "fish_evlp" : {
+                "desc" : "\u6355\u9c7c\u7ea2\u5305"
+            }, 
+            "five_star_rating" : {
+                "desc" : "\u4e94\u661f\u8bc4\u8bba"
+            }, 
+            "flip_card_luck" : {
+                "desc" : "\u5e78\u8fd0\u7ffb\u724c"
+            }, 
+            "friend_call" : {
+                "desc" : "\u597d\u53cb\u547d\u4ee4"
+            }, 
+            "friend_notify" : {
+                "desc" : "\u597d\u53cb\u901a\u77e5\u5ba2\u6237\u7aef"
+            }, 
+            "gain_nslogin_reward" : {
+                "desc" : "\u6bcf\u65e5\u767b\u5f55\u5956\u52b1\u9886\u5956"
+            }, 
+            "game" : {
+                "desc" : "\u6e38\u620f\u4e3b\u5165\u53e3"
+            }, 
+            "get_first_recharge" : {
+                "desc" : "\u9996\u5145\u9886\u5956"
+            }, 
+            "hall" : {
+                "desc" : "\u5927\u5385\u5165\u53e3"
+            }, 
+            "hall_game_list" : {
+                "desc" : "\u6e38\u620f\u6309\u94ae\u5217\u8868"
+            }, 
+            "item" : {
+                "desc" : "\u9053\u5177"
+            }, 
+            "item_fish" : {
+                "desc" : "\u6355\u9c7c\u9053\u5177"
+            }, 
+            "lottery" : {
+                "desc" : "\u62bd\u5956"
+            }, 
+            "master" : {
+                "desc" : "\u5927\u5e08\u5206"
+            }, 
+            "medal" : {
+                "desc" : "\u52cb\u7ae0"
+            }, 
+            "medal_info" : {
+                "desc" : "\u52cb\u7ae0"
+            }, 
+            "menu_list" : {
+                "desc" : "\u4e3b\u573a\u666f\u529f\u80fd\u83dc\u5355"
+            }, 
+            "message" : {
+                "desc" : "\u7ad9\u5185\u6d88\u606f"
+            }, 
+            "module_tip" : {
+                "desc" : "\u5c0f\u7ea2\u70b9"
+            }, 
+            "month_checkin" : {
+                "desc" : "\u65b0\u724830\u65e5\u7b7e\u5230"
+            }, 
+            "month_checkin_fish" : {
+                "desc" : "\u6355\u9c7c\u7b7e\u5230"
+            }, 
+            "new_user_reward" : {
+                "desc" : "\u65b0\u624b\u5956\u52b1"
+            }, 
+            "newvip" : {
+                "desc" : "VIP"
+            }, 
+            "prod_delivery" : {
+                "desc" : "\u539f\u670d\u52a1: entity, \u5904\u7406: \u7528\u6237\u8d2d\u4e70\u6295\u9012, \u4f7f\u7528: \u5168\u4f53"
+            }, 
+            "product" : {
+                "desc" : "\u5546\u54c1"
+            }, 
+            "promote" : {
+                "desc" : "\u5185\u63a8\u5e7f"
+            }, 
+            "promotion_loc" : {
+                "desc" : "\u63a8\u5e7f\u4f4d"
+            }, 
+            "quickbuy" : {
+                "desc" : "\u5546\u57ce"
+            }, 
+            "rank" : {
+                "desc" : "\u6392\u884c\u699c"
+            }, 
+            "room_online" : {
+                "desc" : "\u623f\u95f4\u4eba\u6570\u7edf\u8ba1"
+            }, 
+            "send_led" : {
+                "desc" : "\u53d1\u5e03led"
+            }, 
+            "share_hall" : {
+                "desc" : "\u5206\u4eab"
+            }, 
+            "share_url" : {
+                "desc" : "\u5206\u4eab\u9886\u5956"
+            }, 
+            "store" : {
+                "desc" : "\u5546\u57ce"
+            }, 
+            "store_config_fish" : {
+                "desc" : "\u6355\u9c7c\u5546\u57ce\u5217\u8868"
+            }, 
+            "store_fish" : {
+                "desc" : "\u6355\u9c7c\u5546\u57ce"
+            }, 
+            "table_task" : {
+                "desc" : "\u684c\u9762\u4efb\u52a1"
+            }, 
+            "task" : {
+                "desc" : "\u4efb\u52a1"
+            }, 
+            "task_daily" : {
+                "desc" : "\u4e2d\u53d1\u767d\u6bcf\u65e5\u4efb\u52a1"
+            }, 
+            "tbox" : {
+                "desc" : "\u5730\u4e3b\u5b9d\u7bb1"
+            }, 
+            "user" : {
+                "desc" : "\u7528\u6237\u76f8\u5173\u7684\u547d\u4ee4\u5904\u7406"
+            }, 
+            "vip" : {
+                "desc" : "VIP\u5165\u53e3"
+            }
+        }
+    }, 
+    "dbdict" : {
+        "mysql" : {
+            "ads" : [
+                "10.150.30.197", 
+                3306, 
+                "ads", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "beauty" : [
+                "10.150.30.197", 
+                3306, 
+                "beauty", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user0" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata0", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user1" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata1", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user2" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata2", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user3" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata3", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user4" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata4", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user5" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata5", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user6" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata6", 
+                "tuyoogame", 
+                "tuyoogame"
+            ], 
+            "user7" : [
+                "10.150.30.197", 
+                3306, 
+                "tydata7", 
+                "tuyoogame", 
+                "tuyoogame"
+            ]
+        }, 
+        "redis" : {
+            "dizhu" : [
+                "10.150.30.197", 
+                3000, 
+                4, 
+                10
+            ], 
+            "friend" : [
+                "10.150.30.197", 
+                3000, 
+                2, 
+                10
+            ], 
+            "geo" : [
+                "10.150.30.197", 
+                3000, 
+                6, 
+                10
+            ], 
+            "keymap" : [
+                "10.150.30.197", 
+                3000, 
+                5, 
+                10
+            ], 
+            "locker" : [
+                "10.150.30.197", 
+                3000, 
+                10, 
+                10
+            ], 
+            "mix" : [
+                "10.150.30.197", 
+                3000, 
+                1, 
+                10
+            ], 
+            "online" : [
+                "10.150.30.197", 
+                3000, 
+                6, 
+                10
+            ], 
+            "paydata" : [
+                "10.150.30.197", 
+                3000, 
+                3, 
+                10
+            ], 
+            "rank" : [
+                "10.150.30.197", 
+                3000, 
+                9, 
+                10
+            ], 
+            "replay" : [
+                "10.150.30.197", 
+                3000, 
+                2, 
+                10
+            ], 
+            "table0" : [
+                "10.150.30.197", 
+                3000, 
+                11, 
+                10
+            ], 
+            "table1" : [
+                "10.150.30.197", 
+                3000, 
+                12, 
+                10
+            ], 
+            "table2" : [
+                "10.150.30.197", 
+                3000, 
+                11, 
+                10
+            ], 
+            "table3" : [
+                "10.150.30.197", 
+                3000, 
+                12, 
+                10
+            ], 
+            "user0" : [
+                "10.150.30.197", 
+                3000, 
+                7, 
+                10
+            ], 
+            "user1" : [
+                "10.150.30.197", 
+                3000, 
+                8, 
+                10
+            ], 
+            "user2" : [
+                "10.150.30.197", 
+                3000, 
+                7, 
+                10
+            ], 
+            "user3" : [
+                "10.150.30.197", 
+                3000, 
+                8, 
+                10
+            ], 
+            "user4" : [
+                "10.150.30.197", 
+                3000, 
+                7, 
+                10
+            ], 
+            "user5" : [
+                "10.150.30.197", 
+                3000, 
+                8, 
+                10
+            ], 
+            "user6" : [
+                "10.150.30.197", 
+                3000, 
+                7, 
+                10
+            ], 
+            "user7" : [
+                "10.150.30.197", 
+                3000, 
+                8, 
+                10
+            ]
+        }
+    }, 
+    "env" : {
+        "backup_path" : "/home/qipai/hall37/run/backup", 
+        "bin_path" : "/home/qipai/hall37/run/bin", 
+        "bireportgroup" : "{\"card\": {\"count\": 8, \"name\": \"user\"}, \"chip\": {\"count\": 8, \"name\": \"user\"}, \"client_event\": {\"count\": 8, \"name\": \"user\"}, \"game\": {\"count\": 8, \"name\": \"user\"}, \"login\": {\"count\": 8, \"name\": \"user\"}, \"pay\": {\"count\": 8, \"name\": \"user\"}}", 
+        "center_server_logic" : "{\"CT001\": [\"hall.entity.hallled\", \"hall.entity.halllottery\", \"hall.entity.hallranking\"]}", 
+        "config_redis" : "10.150.30.197:3000:0", 
+        "conn_logout_error_msg_1" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_2" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_3" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_4" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_5" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_6" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_7" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "corporation" : "tuyoo", 
+        "db.mysql.all" : [
+            "ads", 
+            "beauty", 
+            "user0", 
+            "user1", 
+            "user2", 
+            "user3", 
+            "user4", 
+            "user5", 
+            "user6", 
+            "user7"
+        ], 
+        "db.redis.all" : [
+            "rank", 
+            "dizhu", 
+            "friend", 
+            "geo", 
+            "keymap", 
+            "locker", 
+            "mix", 
+            "replay", 
+            "online", 
+            "paydata", 
+            "table0", 
+            "table1", 
+            "table2", 
+            "table3", 
+            "user0", 
+            "user1", 
+            "user2", 
+            "user3", 
+            "user4", 
+            "user5", 
+            "user6", 
+            "user7"
+        ], 
+        "enable_test_html" : 1, 
+        "game_packages" : "[\"hall\", \"dizhu\", \"majiang\"]", 
+        "http_avatar" : "http://ddz.image.tuyoo.com/avatar", 
+        "http_bilog" : "", 
+        "http_download" : "http://59.110.221.246:8040", 
+        "http_game" : "http://59.110.221.246:8040", 
+        "http_gdss" : "http://qp.gmapi.shediao.com/", 
+        "http_sdk" : "http://59.110.221.246:6001", 
+        "http_sdk_inner" : "http://59.110.221.246:6001", 
+        "id" : 9999, 
+        "local_internet" : "59.110.221.246", 
+        "local_intranet" : "10.150.30.197", 
+        "log_path" : "/home/qipai/hall37/run/log", 
+        "match_360kp" : "{\"key\": \"thekey\", \"matchResultCallbackUrl\": \"http://111.203.187.150:8040/match_result\", \"signinCallbackUrl\": \"http://111.203.187.150:8040/regist\"}", 
+        "mode" : 2, 
+        "name" : "tyhall", 
+        "output_path" : "/home/qipai/hall37/run", 
+        "poker_path" : "/home/qipai/hall37/source/config_test", 
+        "port_http" : 8048, 
+        "port_redis" : 3000, 
+        "projects_path" : "/home/qipai/hall37/source", 
+        "vm1.internet" : "59.110.221.246", 
+        "vm1.intranet" : "10.150.30.197", 
+        "webroot_path" : "/home/qipai/hall37/run/webroot"
+    }, 
+    "globaldict" : {
+        "is_h5" : 0, 
+        "log_level" : 0, 
+        "log_path" : "/home/qipai/hall37/run/log", 
+        "log_server" : [
+            ""
+        ]
+    }, 
+    "machinedict" : {
+        "vm1" : {
+            "AG" : [
+                "001", 
+                "002", 
+                "003"
+            ], 
+            "CO" : [
+                "001"
+            ], 
+            "CT" : [
+                "001"
+            ], 
+            "GR" : [
+                "7908011", 
+                "7908021", 
+                "7908031"
+            ], 
+            "GT" : [
+                "7908011001", 
+                "7908011002", 
+                "7908021001", 
+                "7908021002", 
+                "7908031001", 
+                "7908031002"
+            ], 
+            "HT" : [
+                "001"
+            ], 
+            "RB" : [
+                "001"
+            ], 
+            "UT" : [
+                "001"
+            ], 
+            "agidx" : 14, 
+            "host" : "10.150.30.197", 
+            "internet" : "59.110.221.246", 
+            "intranet" : "10.150.30.197", 
+            "localhost" : 1, 
+            "pwd" : "qipai", 
+            "ssh" : 22, 
+            "user" : "qipai", 
+            "weight" : 1
+        }
+    }, 
+    "pokerdict" : {
+        "backup_path" : "/home/qipai/hall37/run/backup", 
+        "bin_path" : "/home/qipai/hall37/run/bin", 
+        "bireportgroup" : {
+            "card" : {
+                "count" : 8, 
+                "name" : "user"
+            }, 
+            "chip" : {
+                "count" : 8, 
+                "name" : "user"
+            }, 
+            "client_event" : {
+                "count" : 8, 
+                "name" : "user"
+            }, 
+            "game" : {
+                "count" : 8, 
+                "name" : "user"
+            }, 
+            "login" : {
+                "count" : 8, 
+                "name" : "user"
+            }, 
+            "pay" : {
+                "count" : 8, 
+                "name" : "user"
+            }
+        }, 
+        "center_server_logic" : {
+            "CT001" : [
+                "hall.entity.hallled", 
+                "hall.entity.halllottery", 
+                "hall.entity.hallranking"
+            ]
+        }, 
+        "conf.projects" : [
+            "game/9996", 
+            "game/9999", 
+            "game/790", 
+            "game/9998"
+        ], 
+        "config_redis" : "10.150.30.197:3000:0", 
+        "conn_logout_error_msg_1" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_2" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_3" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_4" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_5" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_6" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "conn_logout_error_msg_7" : "\u8bf7\u91cd\u65b0\u767b\u5f55", 
+        "corporation" : "tuyoo", 
+        "enable_test_html" : 1, 
+        "game_packages" : [
+            "hall", 
+            "majiang2", 
+            "luosihu"
+        ], 
+        "http_avatar" : "http://ddz.image.tuyoo.com/avatar", 
+        "http_bilog" : "", 
+        "http_download" : "http://59.110.221.246:8040", 
+        "http_game" : "http://59.110.221.246:8040", 
+        "http_gdss" : "http://qp.gmapi.shediao.com/", 
+        "http_sdk" : "http://59.110.221.246:6001", 
+        "http_sdk_inner" : "http://59.110.221.246:6001", 
+        "id" : 9999, 
+        "local_internet" : "59.110.221.246", 
+        "local_intranet" : "10.150.30.197", 
+        "log_path" : "/home/qipai/hall37/run/log", 
+        "match_360kp" : {
+            "key" : "thekey", 
+            "matchResultCallbackUrl" : "http://111.203.187.150:8040/match_result", 
+            "signinCallbackUrl" : "http://111.203.187.150:8040/regist"
+        }, 
+        "mode" : 2, 
+        "name" : "tyhall", 
+        "output_path" : "/home/qipai/hall37/run", 
+        "poker_path" : "/home/qipai/hall37/source/config_test", 
+        "port_http" : 8040, 
+        "port_redis" : 3000, 
+        "projects_path" : "/home/qipai/hall37/source", 
+        "webroot_path" : "/home/qipai/hall37/run/webroot"
+    }, 
+    "projectlist" : [
+        {
+            "index" : 1, 
+            "path" : "/home/qipai/hall37/source/freetime"
+        }, 
+        {
+            "index" : 2, 
+            "path" : "/home/qipai/hall37/source/tuyoo"
+        }, 
+        {
+            "gameId" : 9999, 
+            "index" : 3, 
+            "package" : "hall", 
+            "path" : "/home/qipai/hall37/source/hall"
+        }, 
+        {
+            "gameId" : 4, 
+            "index" : 4, 
+            "path" : "/home/qipai/hall37/source/webroot"
+        }, 
+        {
+            "gameId" : 9996, 
+            "index" : 15, 
+            "package" : "majiang2", 
+            "path" : "/home/qipai/hall37/source/majiang2"
+        }, 
+        {
+            "gameId" : 790, 
+            "index" : 25, 
+            "package" : "luosihu", 
+            "path" : "/home/qipai/hall37/source/luosihu"
+        }
+    ], 
+    "serverlist" : [
+        {
+            "agent" : "AG001", 
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "protocols" : {
+                "server" : {
+                    "ht-http" : 8040
+                }
+            }, 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "HT"
+        }, 
+        {
+            "agent" : "AG002", 
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "mysql" : [
+                "ads", 
+                "beauty", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "protocols" : {
+                "server" : {
+                    "co-tcp" : 8041
+                }
+            }, 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 200000, 
+            "type" : "CO"
+        }, 
+        {
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "protocols" : {
+                "server" : {
+                    "a2a" : 8042, 
+                    "a2s" : 8043
+                }
+            }, 
+            "type" : "AG"
+        }, 
+        {
+            "id" : "002", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "protocols" : {
+                "server" : {
+                    "a2a" : 8044, 
+                    "a2s" : 8045
+                }
+            }, 
+            "type" : "AG"
+        }, 
+        {
+            "id" : "003", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "protocols" : {
+                "server" : {
+                    "a2a" : 8046, 
+                    "a2s" : 8047
+                }
+            }, 
+            "type" : "AG"
+        }, 
+        {
+            "agent" : "AG003", 
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "RB"
+        }, 
+        {
+            "agent" : "AG001", 
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "CT"
+        }, 
+        {
+            "agent" : "AG002", 
+            "id" : "001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "mysql" : [
+                "ads", 
+                "beauty", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "UT"
+        }, 
+        {
+            "agent" : "AG003", 
+            "id" : "7908011", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 200000, 
+            "type" : "GR"
+        }, 
+        {
+            "agent" : "AG001", 
+            "id" : "7908021", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 200000, 
+            "type" : "GR"
+        }, 
+        {
+            "agent" : "AG002", 
+            "id" : "7908031", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 200000, 
+            "type" : "GR"
+        }, 
+        {
+            "agent" : "AG003", 
+            "id" : "7908011001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }, 
+        {
+            "agent" : "AG001", 
+            "id" : "7908011002", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }, 
+        {
+            "agent" : "AG002", 
+            "id" : "7908021001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }, 
+        {
+            "agent" : "AG003", 
+            "id" : "7908021002", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }, 
+        {
+            "agent" : "AG001", 
+            "id" : "7908031001", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }, 
+        {
+            "agent" : "AG002", 
+            "id" : "7908031002", 
+            "ip" : "10.150.30.197", 
+            "mn" : "vm1", 
+            "redis" : [
+                "rank", 
+                "dizhu", 
+                "friend", 
+                "geo", 
+                "keymap", 
+                "locker", 
+                "mix", 
+                "replay", 
+                "online", 
+                "paydata", 
+                "table0", 
+                "table1", 
+                "table2", 
+                "table3", 
+                "user0", 
+                "user1", 
+                "user2", 
+                "user3", 
+                "user4", 
+                "user5", 
+                "user6", 
+                "user7"
+            ], 
+            "task-concurrent" : 4000, 
+            "type" : "GT"
+        }
+    ]
+}

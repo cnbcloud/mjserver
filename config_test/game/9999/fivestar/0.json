@@ -1,0 +1,64 @@
+{
+	"channels":{
+		"ios.0-hall6.tuyoo.huanle":{
+			"rateUrl":"itms-apps://itunes.apple.com/us/app/huan-le-dou-de-zhu/id830490089?mt=8&uo=4",
+			"rateCountPerDay":10000
+		},
+		"ios.0-hall6.appStore.single":{
+			"rateUrl":"https://itunes.apple.com/cn/app/kai-xin-dou-zhu-tu-you-qi/id1047049984?mt=8",
+			"rateCountPerDay":10000,
+			"appendDesc": "五星好评送8000金币",
+			"appendItems": [
+	            {
+	                "count":8000,
+	                "itemId":"user:chip"
+	            }
+	        ],
+			"feedback": "感谢您的五星好评"
+		},
+		"ios.0-hall6.appStore.cherry":{
+			"rateUrl":"https://appsto.re/cn/mSiyI.i",
+			"rateCountPerDay":10000,
+			"appendDesc": "五星好评送8000金币",
+			"appendItems": [
+	            {
+	                "count":8000,
+	                "itemId":"user:chip"
+	            }
+	        ],
+			"feedback": "感谢您的五星好评"
+		},
+		"ios.0-hall6.appStore.zhafantian":{
+			"rateUrl":"https://itunes.apple.com/cn/app/id988667803",
+			"rateCountPerDay":10000,
+			"appendDesc": "五星好评送8000金币",
+			"appendItems": [
+	            {
+	                "count":8000,
+	                "itemId":"user:chip"
+	            }
+	        ],
+			"feedback": "感谢您的五星好评"
+		},
+		"ios.0-hall8.appStore.fk": {
+			"rateUrl": "https://itunes.apple.com/app/id831378089",
+			"rateCountPerDay": 10000
+		},
+		"ios.0-hall8.appStore.spinage": {
+			"rateUrl": "https://itunes.apple.com/cn/app/id1097442766",
+			"rateCountPerDay": 10000
+		},
+		"ios.0-hall8.appStore.huanle": {
+			"rateUrl": "https://itunes.apple.com/cn/app/id1025260910",
+			"rateCountPerDay": 10000
+		},
+		"ios.0-hall8.appStore.luxury": {
+			"rateUrl": "https://itunes.apple.com/cn/app/id1076854529",
+			"rateCountPerDay": 10000
+		},
+		"ios.0-hall6.appStore.tuyoo2016": {
+			"rateUrl": "https://itunes.apple.com/cn/app/tu-you-dou-zhu2016-liang-yi/id1104879669?mt=8",
+			"rateCountPerDay": 10000
+		}	
+	}
+}

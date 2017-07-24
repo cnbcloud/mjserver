@@ -1,0 +1,17 @@
+{
+    "templates": [
+        {
+        	"name": "queshou",
+            "inviteRewardItem": {
+                "itemId": "item:8005",
+                "count": 12
+            },
+            "gotoTitle": "体验游戏送房卡啦",
+            "gotoDesc": "要至少体验一把游戏才有房卡送哦，快和我一起来游戏吧。",
+            "gotoUrl": "http://landing.shediao.com/qipai/queshou/lianjiang.html",
+            "inviteTitle": "可以和亲友一起游戏的麻将",
+            "inviteDesc": "玩自建桌本地麻将，报我ID(\\${rewardContent})就领取12张房卡",
+            "inviteUrl": "http://landing.shediao.com/qipai/queshou/lianjiang.html"
+        }
+    ]
+}

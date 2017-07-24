@@ -1,0 +1,431 @@
+{
+	"assistanceChip":3000,
+	"assistanceChipUpperLimit":1000,
+    "levelUpDesc":"恭喜您，成为VIP\\${curLevel}级用户，又有好礼可以拿啦！",
+    "gotGiftDesc":"恭喜您，获得了\\${rewardContent}！",
+    "gotAssistanceDesc":"恭喜您，领取了\\${rewardContent}的江湖保险金！",
+    "levelUpPayOrder":{
+   		"shelves":["lessbuychip"],
+   		"buyTypes":["direct"]
+   	},
+    "levels": [
+        {
+            "level": 0,
+            "name": "VIP0",
+            "exp": 0,
+            "pic": "${http_download}/hall/vip/vip0.png",
+            "desc": [],
+            "nextLevel": 1,
+            "expDesc": "仅需充值\\${deltaRmb}元就能成为VIP1"
+        },
+        {
+            "level": 1,
+            "name": "VIP1",
+            "exp": 60,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_1.png",
+            "desc": [
+                "每日可多领1次救急金",
+                "赠送神秘烟斗3天",
+                "赠送3次VIP江湖保险",
+                "VIP专享地主、农民造型"
+            ],
+            "rewardContent": {
+                "typeId": "FixedContent",
+                "desc": "3次江湖保险",
+                "items": [
+                    {
+                        "itemId": "game:assistance",
+                        "count": 3
+                    }
+                ]
+            },
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "神秘烟斗3天",
+                "items": [
+                    {
+                        "itemId": "item:4117",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 2,
+            "expDesc": "您再充\\${deltaRmb}元就能达到\\${nextVipLevelName}"
+        },
+        {
+            "level": 2,
+            "name": "VIP2",
+            "exp": 350,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_2.png",
+            "desc": [
+                "每次救急金增加1000",
+                "赠送神秘礼帽3天",
+                "赠送3次VIP江湖保险"
+            ],
+            "rewardContent": {
+                "typeId": "FixedContent",
+                "desc": "3次江湖保险",
+                "items": [
+                    {
+                        "itemId": "game:assistance",
+                        "count": 3
+                    }
+                ]
+            },
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "神秘礼帽3天",
+                "items": [
+                    {
+                        "itemId": "item:4101",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 3,
+            "expDesc": "您再充\\${deltaRmb}元就能达到\\${nextVipLevelName}"
+        },
+        {
+            "level": 3,
+            "name": "VIP3",
+            "exp": 2000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_3.png",
+            "desc": [
+                "赠送青春派头像各3天",
+                "赠送绅士礼帽3天",
+                "赠送3次VIP江湖保险",
+                "VIP专属赛事"
+            ],
+            "rewardContent": {
+                "typeId": "FixedContent",
+                "desc": "3次江湖保险",
+                "items": [
+                    {
+                        "itemId": "game:assistance",
+                        "count": 3
+                    }
+                ]
+            },
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "绅士礼帽3天+青春派头像各3天",
+                "items": [
+                    {
+                        "itemId": "item:4102",
+                        "count": 3
+                    },
+                    {
+                        "itemId": "item:4109",
+                        "count": 3
+                    },
+                    {
+                        "itemId": "item:4110",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 4,
+            "expDesc": "您再充\\${deltaRmb}元就能达到\\${nextVipLevelName}"
+        },
+        {
+            "level": 4,
+            "name": "VIP4",
+            "exp": 5000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_4.png",
+            "desc": [
+                "赠送魅力族头像各1天",
+                "互动表情魅力值增加50%",
+                "赠送牛仔帽3天",
+                "赠送幸运项链10天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "牛仔帽3天+幸运项链10天",
+                "items": [
+                    {
+                        "itemId": "item:4111",
+                        "count": 1
+                    },
+                    {
+                        "itemId": "item:4112",
+                        "count": 1
+                    },
+                    {
+                        "itemId": "item:4103",
+                        "count": 3
+                    },
+                    {
+                        "itemId": "item:4113",
+                        "count": 10
+                    }
+                ]
+            },
+            "nextLevel": 5,
+            "expDesc": ""
+        },
+        {
+            "level": 5,
+            "name": "VIP5",
+            "exp": 20000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_5.png",
+            "desc": [
+                "赠送命运酒杯10天",
+                "赠送精灵花冠3天",
+                "超额补充筹码"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "命运酒杯10天+精灵花冠3天",
+                "items": [
+                    {
+                        "itemId": "item:4114",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4105",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 6,
+            "expDesc": ""
+        },
+        {
+            "level": 6,
+            "name": "VIP6",
+            "exp": 100000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_6.png",
+            "desc": [
+                "赠送绅士手杖10天",
+                "赠送多彩皇冠3天",
+                "开放自定义聊天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "绅士手杖10天,多彩皇冠3天",
+                "items": [
+                    {
+                        "itemId": "item:4115",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4104",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 7,
+            "expDesc": ""
+        },
+        {
+            "level": 7,
+            "name": "VIP7",
+            "exp": 500000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_7.png",
+            "desc": [
+                "赠送恶魔角饰3天+地狱之戟10天",
+                "可发自定义聊天",
+                "专属客服经理1对1服务",
+                "坐下专属特效"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "恶魔角饰3天,地狱之戟10天",
+                "items": [
+                    {
+                        "itemId": "item:4106",
+                        "count": 3
+                    },
+                    {
+                        "itemId": "item:4120",
+                        "count": 10
+                    }
+                ]
+            },
+            "nextLevel": 8,
+            "expDesc": ""
+        },
+        {
+            "level": 8,
+            "name": "VIP8",
+            "exp": 2000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_8.png",
+            "desc": [
+                "德州VIP专属房间",
+                "商城VIP专属道具",
+                "赠送恶魔角饰3天",
+                "赠送地狱之戟10天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "恶魔角饰3天,地狱之戟10天",
+                "items": [
+                    {
+                        "itemId": "item:4106",
+                        "count": 3
+                    },
+                    {
+                        "itemId": "item:4120",
+                        "count": 10
+                    }
+                ]
+            },
+            "nextLevel": 9,
+            "expDesc": ""
+        },
+        {
+            "level": 9,
+            "name": "VIP9",
+            "exp": 5000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_9.png",
+            "desc": [
+                "赠送天使之翼7天",
+                "赠送神圣十字10天",
+                "赠送天使头环3天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "天使之翼7天+神圣十字10天+天使头环3天",
+                "items": [
+                    {
+                        "itemId": "item:4121",
+                        "count": 7
+                    },
+                    {
+                        "itemId": "item:4119",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4107",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 10,
+            "expDesc": ""
+        },
+        {
+            "level": 10,
+            "name": "VIP10",
+            "exp": 10000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_10.png",
+            "desc": [
+                "赠送天使之翼7天",
+                "赠送神圣十字10天",
+                "赠送天使头环3天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "天使之翼7天+神圣十字10天+天使头环3天",
+                "items": [
+                    {
+                        "itemId": "item:4121",
+                        "count": 7
+                    },
+                    {
+                        "itemId": "item:4119",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4107",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 11,
+            "expDesc": ""
+        },
+        {
+            "level": 11,
+            "name": "VIP11",
+            "exp": 20000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_11.png",
+            "desc": [
+                "赠送天使之翼7天",
+                "赠送神圣十字10天",
+                "赠送天使头环3天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "天使之翼7天+神圣十字10天+天使头环3天",
+                "items": [
+                    {
+                        "itemId": "item:4121",
+                        "count": 7
+                    },
+                    {
+                        "itemId": "item:4119",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4107",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 12,
+            "expDesc": ""
+        },
+        {
+            "level": 12,
+            "name": "VIP12",
+            "exp": 50000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_12.png",
+            "desc": [
+                "赠送天使之翼7天",
+                "赠送神圣十字10天",
+                "赠送天使头环3天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "天使之翼7天+神圣十字10天+天使头环3天",
+                "items": [
+                    {
+                        "itemId": "item:4121",
+                        "count": 7
+                    },
+                    {
+                        "itemId": "item:4119",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4107",
+                        "count": 3
+                    }
+                ]
+            },
+            "nextLevel": 13,
+            "expDesc": ""
+        },
+        {
+            "level": 13,
+            "name": "VIP13",
+            "exp": 100000000,
+            "pic": "${http_download}/hall/vip/hall_decoration_tip_vip_13.png",
+            "desc": [
+                "赠送天使之翼7天",
+                "赠送神圣十字10天",
+                "赠送天使头环3天"
+            ],
+            "giftContent": {
+                "typeId": "FixedContent",
+                "desc": "天使之翼7天+神圣十字10天+天使头环3天",
+                "items": [
+                    {
+                        "itemId": "item:4121",
+                        "count": 7
+                    },
+                    {
+                        "itemId": "item:4119",
+                        "count": 10
+                    },
+                    {
+                        "itemId": "item:4107",
+                        "count": 3
+                    }
+                ]
+            },
+            "expDesc": ""
+        }
+    ]
+}

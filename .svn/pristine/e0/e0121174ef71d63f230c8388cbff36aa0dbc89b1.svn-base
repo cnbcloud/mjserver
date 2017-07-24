@@ -1,0 +1,10 @@
+{
+ "games"    : [ ],
+ "templates": [
+  {
+   "des"      : "默认模板，用于v3.701",
+   "name"     : "default",
+   "pages"    : [ ]
+  }
+ ]
+}

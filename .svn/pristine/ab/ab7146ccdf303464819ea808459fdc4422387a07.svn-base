@@ -1,0 +1,119 @@
+{
+ "templates"  : [
+  {
+   "positions"  : [
+    {
+     "promotes"   : [
+      {
+       "promotionId": 790122701,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 1
+    },
+    {
+     "promotes"   : [
+      {
+       "promotionId": 790122704,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 3
+    },
+    {
+     "promotes"   : [
+      {
+       "promotionId": 790122702,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 4
+    }
+   ],
+   "name"       : "luosihu_v3.901_Promote_luosihumajiang"
+  },
+  {"positions"  : [
+    {
+     "promotes"   : [
+      {
+       "promotionId": 790122703,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 1
+    }
+   ],
+   "name"       : "luosihu_v3.901_Promote_tsluosihumajiang"
+  }
+ ],
+ "promotions" : [
+  {
+   "promotionId": 790122701,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "typeId"     : "todotask.showInfo",
+     "info"       : "亲爱的玩家，此版本为限时免费测试，该功能模块后续版本开放，祝您游戏愉快～"
+    }
+   ],
+   "redPoint"   : [ ],
+   "displayName": "麻将买房卡",
+   "url"        : "${http_download}/majiang/difang/act/icon_tgw_mfk.png",
+   "defaultRes" : ""
+  },
+  {
+   "promotionId": 790122704,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "subTextExt" : "好友",
+     "subText"	  : "朋友圈",
+     "subCmd" 	  : {
+	"shareId" : 790001,
+	"typeId"  : "todotask.sharegift.with.shareId"
+     },
+     "subCmdExt" : {
+	"shareId" : 790000,
+	"typeId"  : "todotask.sharegift.with.shareId"
+     },
+     "allowClose" : true,
+     "typeId"	  : "todotask.showInfo",
+     "info"       : "正宗玩法的新疆麻将\n火速转发好友打几局"
+    }
+   ]
+  },
+  {
+   "promotionId": 790122703,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "productPic" : "${http_download}/majiang/difang/act/icon_tgw_mfk.png",
+     "typeId"     : "todotask.buyFangka",
+     "productId"  : "laodao_xinjiang_001",
+     "info"       : "6元购买3张房卡"
+    }
+   ],
+   "redPoint"   : [ ],
+   "displayName": "麻将买房卡",
+   "url"        : "${http_download}/majiang/difang/act/icon_tgw_mfk.png",
+   "defaultRes" : ""
+  },
+  {
+   "promotionId": 790122702,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "typeId"     : "todotask.simple.invite"
+    }
+   ],
+   "redPoint"   : [
+    {
+     "typeId"     : "user.cond.HasFreeMark"
+    }
+   ],
+   "displayName": "麻将邀请有礼",
+   "url"        : "${http_download}/hall/promote/imgs/icon_tgw_mffk.png",
+   "defaultRes" : ""
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+    "trDownloadPath": "http://ool59lglv.bkt.clouddn.com/",
+    "trFilePath": "",
+    "trUploadKey": "87c953283acaba7e75340fccad71c97b047569c2:MjEwN2QyMzI2NzAwNDNjYTMzYmQyYjFiYzJiMWRmODg5NDU0YmEyNQ==:eyJzY29wZSI6InR5aGFsbCIsImRlYWRsaW5lIjoiMTQ4NTUyMjU3MDAwMCIsIm92ZXJ3cml0ZSI6MCwiZnNpemVMaW1pdCI6MCwiaW5zdGFudCI6MCwic2VwYXJhdGUiOjB9",
+    "trUploadUrls": [
+        "http://111.203.187.148:9300/file/upload/",
+        "http://111.203.187.148:9301/file/upload/",
+        "http://111.203.187.148:9302/file/upload/",
+        "http://111.203.187.148:9303/file/upload/",
+        "http://111.203.187.148:9304/file/upload/",
+        "http://111.203.187.148:9305/file/upload/",
+        "http://111.203.187.148:9306/file/upload/",
+        "http://111.203.187.148:9307/file/upload/",
+        "http://111.203.187.148:9308/file/upload/",
+        "http://111.203.187.148:9309/file/upload/"
+    ]
+}

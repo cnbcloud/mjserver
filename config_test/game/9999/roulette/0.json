@@ -1,0 +1,355 @@
+{
+    "items": {
+        "roulette_1": {
+            "rouletteId": "roulette_1",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_1.png",
+            "typeId": "items",
+            "itemId": "item:4141",
+            "itemName": "10元",
+            "itemDesc": "10元话费",
+            "count": 1
+        },
+        "roulette_2": {
+            "rouletteId": "roulette_2",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_2.png",
+            "typeId": "items",
+            "itemId": "item:89",
+            "itemName": "30天",
+            "itemDesc": "30天会员",
+            "count": 30
+        },
+        "roulette_3": {
+            "rouletteId": "roulette_3",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemName": "8888",
+            "itemDesc": "8888金币",
+            "itemId": "user:chip",
+            "count": 8888
+        },
+        "roulette_4": {
+            "rouletteId": "roulette_4",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "1888",
+            "itemDesc": "1888金币",
+            "count": 1888
+        },
+        "roulette_5": {
+            "rouletteId": "roulette_5",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "888",
+            "itemDesc": "888金币",
+            "count": 888
+        },
+        "roulette_6": {
+            "rouletteId": "roulette_6",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "666",
+            "itemDesc": "666金币",
+            "count": 666
+        },
+        "roulette_7": {
+            "rouletteId": "roulette_7",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_7.png",
+            "typeId": "assert",
+            "itemId": "user:coupon",
+            "itemName": "10张",
+            "itemDesc": "10张奖劵",
+            "count": 10
+        },
+        "roulette_8": {
+            "rouletteId": "roulette_8",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_8.png",
+            "typeId": "items",
+            "itemId": "item:2003",
+            "itemName": "1天",
+            "itemDesc": "1天记牌器",
+            "count": 1
+        },
+        "roulette_9": {
+            "rouletteId": "roulette_9",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_9.png",
+            "typeId": "items",
+            "itemId": "item:4130",
+            "itemName": "2天",
+            "itemDesc": "2天赌神戒指",
+            "count": 2
+        },
+        "roulette_10": {
+            "rouletteId": "roulette_10",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_10.png",
+            "typeId": "items",
+            "itemId": "item:4105",
+            "itemName": "2天",
+            "itemDesc": "2天精灵花冠",
+            "count": 2
+        },
+        "roulette_11": {
+            "rouletteId": "roulette_11",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_11.png",
+            "typeId": "items",
+            "itemId": "item:1008",
+            "itemName": "2张",
+            "itemDesc": "2张英雄帖",
+            "count": 2
+        },
+        "roulette_12": {
+            "rouletteId": "roulette_12",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_12.png",
+            "typeId": "items",
+            "itemId": "item:1007",
+            "itemName": "5张",
+            "itemDesc": "5张参赛劵",
+            "count": 5
+        },
+        "roulgold_1": {
+            "rouletteId": "roulgold_1",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "10亿",
+            "itemDesc": "10亿金币",
+            "count": 1000000000
+        },
+        "roulgold_2": {
+            "rouletteId": "roulgold_2",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "100万",
+            "itemDesc": "100万金币",
+            "count": 1000000
+        },
+        "roulgold_3": {
+            "rouletteId": "roulgold_3",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "10万",
+            "itemDesc": "10万金币",
+            "count": 100000
+        },
+        "roulgold_4": {
+            "rouletteId": "roulgold_4",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "5万",
+            "itemDesc": "5万金币",
+            "count": 50000
+        },
+        "roulgold_5": {
+            "rouletteId": "roulgold_5",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "3万",
+            "itemDesc": "3万金币",
+            "count": 30000
+        },
+        "roulgold_6": {
+            "rouletteId": "roulgold_6",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "2万",
+            "itemDesc": "2万金币",
+            "count": 20000
+        },
+        "roulgold_7": {
+            "rouletteId": "roulgold_7",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_gold_7.png",
+            "typeId": "assert",
+            "itemId": "user:coupon",
+            "itemName": "888",
+            "itemDesc": "888张奖劵",
+            "count": 888
+        },
+        "roulgold_8": {
+            "rouletteId": "roulgold_8",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_silver_2.png",
+            "typeId": "items",
+            "itemId": "item:89",
+            "itemName": "30天",
+            "itemDesc": "30天会员",
+            "count": 30
+        },
+        "roulgold_9": {
+            "rouletteId": "roulgold_9",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_gold_30.png",
+            "typeId": "items",
+            "itemId": "item:4116",
+            "itemName": "7天",
+            "itemDesc": "7天魔法棒",
+            "count": 7
+        },
+        "roulgold_10": {
+            "rouletteId": "roulgold_10",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_coin.png",
+            "typeId": "assert",
+            "itemId": "user:chip",
+            "itemName": "30万",
+            "itemDesc": "30万金币",
+            "count": 300000
+        },
+        "roulgold_11": {
+            "rouletteId": "roulgold_11",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_gold_11.png",
+            "typeId": "items",
+            "itemId": "item:3001",
+            "itemName": "月光钥",
+            "itemDesc": "1把月光之钥",
+            "count": 1
+        },
+        "roulgold_12": {
+            "rouletteId": "roulgold_12",
+            "picUrl": "${http_download}/hall/roulette/hall_roulette_gold_12.png",
+            "typeId": "items",
+            "itemId": "item:4168",
+            "itemName": "补签卡",
+            "itemDesc": "2张补签卡",
+            "count": 2
+        }
+    },
+    "template": {
+        "default": {
+            "bigRewardNumber":60000,
+            "bigReward":{
+            	"itemId": "user:chip",
+            	"count": 1000000000
+            },
+            "goldBigReward_items": [{
+                "rouletteId": "roulgold_8",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_2",
+                "weight": 0
+            }, {
+                "rouletteId": "roulgold_10",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_4",
+                "weight": 140
+            }, {
+                "rouletteId": "roulgold_12",
+                "weight": 125
+            }, {
+                "rouletteId": "roulgold_6",
+                "weight": 250
+            }, {
+                "rouletteId": "roulgold_7",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_1",
+                "weight": 0
+            }, {
+                "rouletteId": "roulgold_9",
+                "weight": 100
+            }, {
+                "rouletteId": "roulgold_3",
+                "weight": 20
+            }, {
+                "rouletteId": "roulgold_11",
+                "weight": 150
+            }, {
+                "rouletteId": "roulgold_5",
+                "weight": 200
+            }],
+            "gold_items": [{
+                "rouletteId": "roulgold_8",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_2",
+                "weight": 0
+            }, {
+                "rouletteId": "roulgold_10",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_4",
+                "weight": 140
+            }, {
+                "rouletteId": "roulgold_12",
+                "weight": 125
+            }, {
+                "rouletteId": "roulgold_6",
+                "weight": 250
+            }, {
+                "rouletteId": "roulgold_7",
+                "weight": 5
+            }, {
+                "rouletteId": "roulgold_1",
+                "weight": 0
+            }, {
+                "rouletteId": "roulgold_9",
+                "weight": 100
+            }, {
+                "rouletteId": "roulgold_3",
+                "weight": 20
+            }, {
+                "rouletteId": "roulgold_11",
+                "weight": 150
+            }, {
+                "rouletteId": "roulgold_5",
+                "weight": 200
+            }],
+            "silver_items":[{
+                "rouletteId": "roulette_3",
+                "weight": 20
+            }, {
+                "rouletteId": "roulette_2",
+                "weight": 3
+            }, {
+                "rouletteId": "roulette_1",
+                "weight": 0
+            }, {
+                "rouletteId": "roulette_4",
+                "weight": 100
+            }, {
+                "rouletteId": "roulette_9",
+                "weight": 90
+            }, {
+                "rouletteId": "roulette_6",
+                "weight": 200
+            }, {
+                "rouletteId": "roulette_7",
+                "weight": 37
+            }, {
+                "rouletteId": "roulette_8",
+                "weight": 90
+            }, {
+                "rouletteId": "roulette_5",
+                "weight": 180
+            }, {
+                "rouletteId": "roulette_10",
+                "weight": 90
+            }, {
+                "rouletteId": "roulette_11",
+                "weight": 90
+            }, {
+                "rouletteId": "roulette_12",
+                "weight": 100
+            }],
+            "snatch":[
+                {
+                    "startTime":0,
+                    "endTime":24,
+                    "needNumber":600,
+                    "rewardMsg":"恭喜您获得大奖，奖金已下发至您的账户中",
+                    "picUrl":"${http_download}/hall/roulette/roulette_new_8.png",
+                    "desc":"500万",
+                    "prize":{
+                        "itemId":"user:chip",
+                        "count":5000000,
+                        "typeId":"assert"
+                    }
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"modules":[
+		{"name":"account", "type":0, "needReport":1, "hallType":"common"},
+        {"name":"bag", "type":0, "needReport":1, "hallType":"common"},
+        {"name":"medal", "type":0, "needReport":0, "hallType":"common"},
+        {"name":"message", "type":0, "needReport":1, "hallType":"common"},
+        {"name":"task", "type":0, "needReport":0, "hallType":"special"},
+        {"name":"activity", "type":0, "needReport":1, "hallType":"special"},
+        {"name":"friends", "type":0, "needReport":1, "hallType":"common"}
+	]
+}

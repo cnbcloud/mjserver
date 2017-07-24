@@ -1,0 +1,325 @@
+{
+    "exchanges": [
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17439,
+                		17281,
+						17321,
+						17311,
+						17307,
+						17312,
+						17338,
+						17376,
+						17314,
+						17326,
+						17347,
+						17361,
+						17393,
+						17389,
+						17400,
+						17323,
+						17398,
+						17316,
+						17329,
+						17412,
+						17411,
+						17403,
+						17400,
+						17398,
+						17329,
+						17323,
+						17316
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6001,
+            "ratio": 1
+        },
+        {
+        "conditions": [
+               {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                                                50015,
+                                                50004,
+                                                50031,
+						50034,
+                                                50052,
+                                                50051
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 8003,
+            "ratio": 1
+        },
+	{
+	"conditions": [
+               {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                                                50022,
+                                                50023,
+                                                50024,
+                                                50025,
+						50048
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 8005,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+          				16934,
+					    17046,
+					    17222,
+					    17227,
+					    17257,
+					    17270,
+					    17271,
+					    17277,
+					    17294,
+					    17325,
+					    17330,
+					    17331,
+					    17332,
+					    17351,
+					    17353,
+					    17354,
+					    17362,
+					    17371,
+					    17372,
+					    17374,
+					    17093,
+					    17048,
+					    17205,
+					    17200,
+					    17238,
+					    17276,
+					    17269,
+					    17310,
+					    17377,
+					    17315,
+					    17318,
+					    17396,
+					    17399,
+					    17394,
+					    17148,
+					    17224,
+					    17279,
+					    17346,
+					    17334,
+					    17397,
+					    17395,
+					    17339,
+					    17356,
+					    17359,
+					    17337,
+					    17348,
+                        17461,
+                        17462,
+                        17463,
+                        17434,
+                        17400,
+                        17433,
+                        17405
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6002,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17472,
+                        17461,
+                        17434,
+                        17371,
+                        17351,
+                        17332,
+                        17325,
+                        17294,
+                        17434,
+                        17351
+                    ]
+                }
+            ],
+            "itemIdSrc": 6002,
+            "itemIdDst": 6009,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        16861,
+					    16857,
+					    17202,
+					    17199,
+					    17274,
+					    17268,
+					    17284,
+					    17291,
+					    17305,
+					    17333,
+					    17303,
+					    17388,
+					    17392,
+					    17059,
+					    16915,
+					    16923,
+					    17045,
+					    17226,
+					    17280,
+					    17336,
+					    17313,
+					    17317,
+					    17345,
+					    17373,
+					    17327,
+					    17375,
+					    17452,
+					    17483
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6003,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17191,
+						17190,
+						17204,
+						17201,
+						17275,
+						17272,
+						17319,
+						17225,
+						17278,
+						17335,
+						17357,
+						17358,
+						17328,
+						17343
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6004,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+						17416,
+						17457
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6007,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                                                17425,
+						17427,
+						17453,
+						17455,
+                        17507
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6006,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+						17459,
+                        17460
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6103,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+						17456,
+                        17465
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6104,
+            "ratio": 1
+        },
+		{
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+						17493,
+                        17454,
+						17480,
+						17415,
+						17511,
+						17516
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6007,
+            "ratio": 1
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                                                17485,
+                                                19477,
+                                                17504,
+                                                17523
+                    ]
+                }
+            ],
+            "itemIdSrc": 4346,
+            "itemIdDst": 6106,
+            "ratio": 1
+        }	
+    ],
+    "info": "道具系统比较复杂，道具互换暂不支持时间类道具。配置上线前需仔细测试。房卡道具定义（默认: 4346，江西: 6001，湖南和跑胡子: 6002, 四川: 6003, 贵阳: 6004, 云南: 6005, 哈尔滨: 6006 优乐广西字牌：6103 三缺一桂林字牌：6104）"
+}

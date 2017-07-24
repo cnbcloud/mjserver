@@ -1,0 +1,42 @@
+{
+	"startTime":"2016-04-27 00:00:00",
+	"endTime":"2016-05-06 00:00:00",
+	"gifts":[
+		{
+			"gameIds":[6, 17],
+			"productIds":["TY9999D1000012", "TY9999D0648007"],
+			"mail":"恭喜你充值\\${price}元，获得\\${gotContent}",
+			"maxCount":-1,
+			"content":{
+                "typeId":"FixedContent",
+                "items":[
+                    {"itemId":"item:4263", "count":1}
+                ]
+            }
+		},
+		{
+			"gameIds":[6, 17],
+			"productIds":["TY9999D0300004", "TY9999D0328007"],
+			"mail":"恭喜你充值\\${price}元，获得\\${gotContent}",
+			"maxCount":-1,
+			"content":{
+                "typeId":"FixedContent",
+                "items":[
+                    {"itemId":"item:4264", "count":1}
+                ]
+            }
+		},
+		{
+			"gameIds":[6, 17],
+			"productIds":["TY9999D0030024", "TY9999D0030007"],
+			"mail":"恭喜你充值\\${price}元，获得\\${gotContent}",
+			"maxCount":-1,
+			"content":{
+                "typeId":"FixedContent",
+                "items":[
+                    {"itemId":"item:4265", "count":1}
+                ]
+            }
+		}
+	]
+}

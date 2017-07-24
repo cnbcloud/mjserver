@@ -1,0 +1,169 @@
+{
+    "configDesc": "麻将房间其他相关配置,例如:比赛的标签配置,自建桌",
+    "create_table_config": {
+            "luosihu-luosihu": {
+            "playModeDesc": "螺丝胡",
+            "paramType": {
+                    "cardCount": "游戏局数",
+                    "wanFa": "玩法",
+                    "playerType": "人数",
+                    "nozfb":"东南西北",
+                    "gangWithTing":"停牌可杠",
+                    "zimoDouble":"自摸加倍",
+                    "gangshangpaoFan":"杠上炮"	
+                    },
+                    "cardCount":[
+                        {"id": 1, "value":4, "desc":"4局(限免)", "default": 1, "fangka_count":0},
+                        {"id": 2, "value":8, "desc":"8局(限免)", "default": 0, "fangka_count":0},
+                        {"id": 3, "value":16, "desc":"16局(限免)", "default": 0, "fangka_count": 0} 
+                    ],
+                    "wanFa":[
+                        {"id": "zimoDouble","desc":"自摸加倍","default":0},
+                        {"id": "nozfb","desc":"东南西北","default":0},
+                        {"id": "gangWithTing","desc":"停牌可杠","default":0}
+                    ],
+                    "playerType":[
+                        {"id": 2, "desc": "4人", "default": 1, "count": 4}
+                    ],
+                    "zimoDouble":[
+                        {"id": 0, "desc": "自摸加倍(关闭)", "default": 0, "zimoDouble": 0},
+                        {"id": 1, "desc": "自摸加倍",  "default": 1, "zimoDouble": 1}
+                    ], 
+                    "nozfb":[
+                        {"id": 1, "desc": "东南西北", "default": 1, "nozfb": 1},
+                        {"id": 0, "desc": "无东南西北",  "default": 0, "nozfb": 0}
+                    ],
+                    "gangWithTing":[
+                        {"id": 1, "desc": "停牌可杠", "default": 1, "gangWithTing": 1},
+                        {"id": 0, "desc": "停牌不可杠",  "default": 0, "gangWithTing": 0}
+                    ],  
+                    "gangshangpaoFan":[
+                        {"id": 1, "desc": "杠上炮", "default": 1, "gangshangpaoFan": 1},
+                        {"id": 0, "desc": "杠上炮(关闭)", "default": 0, "gangshangpaoFan": 0}
+                    ] 
+            },
+	"luosihu-xuezhan": {
+                    "playModeDesc": "螺丝胡",
+                    "paramType": {
+                        "cardCount": "游戏局数",
+                        "wanFa": "玩法",
+                        "playerType": "人数",
+                        "maxFan": "封顶",
+                        "change3Tiles":"换三张",
+                        "lianggangmanfan":"两杠满番"
+                    },
+                    "cardCount":[
+                        {"id": 1, "value":4, "desc":"4局(限免)", "default": 1, "fangka_count":0},
+                        {"id": 2, "value":8, "desc":"8局(限免)", "default": 0, "fangka_count":0},
+                        {"id": 3, "value":16, "desc":"16局(限免)", "default": 0, "fangka_count": 0}                     
+		    ],
+                    "wanFa":[
+                        {"id": "change3Tiles","desc":"换三张","default":0},
+                        {"id": "lianggangmanfan","desc":"两杠满番","default":0}
+                    ],
+                    "playerType":[
+                        {"id": 2, "desc": "4人", "default": 1, "count":4}
+                    ],
+                    "maxFan": [
+                        {"id": 1, "desc": "3番封顶", "default": 1, "max_fan": 8},
+                        {"id": 2, "desc": "4番封顶", "default": 0, "max_fan": 16}
+                    ],
+                    "change3Tiles":[
+                        {"id":0, "desc":"换三张(关闭)", "default": 0,"change_3Tiles": 0},
+                        {"id":1, "desc":"换三张", "default": 1,"change_3Tiles": 1}
+                    ],
+                     "lianggangmanfan":[
+                        {"id":0,"desc":"两杠满番(关闭)","default":0,"lianggangmanfan":0},
+                        {"id":1,"desc":"两杠满番","default":1,"lianggangmanfan":1}
+                    ] 
+            	},
+    "luosihu-ctxuezhan": {
+                    "playModeDesc": "螺丝胡",
+                    "paramType": {
+                        "cardCount": "游戏局数",
+                        "wanFa": "玩法",
+                        "playerType": "人数",
+                        "maxFan": "封顶",
+                        "change3Tiles":"换三张",
+                        "hujiaozhuanyi":"呼叫转移",
+                        "clearDouble":"门清中张",
+                        "tian_hu":"天地胡",
+                        "zimojiafen":"模式",
+                        "jiangdui":"幺九将对",
+                        "dianganghua":"点杠花",
+                        "fangka_pay":"支付方式"
+                    },
+		    "fangka_pay":[
+			{"id": 0, "value":0, "desc":"房主支付", "default": 1},
+                        {"id": 1, "value":1, "desc":"大赢家付", "default": 0}
+		    ],
+                    "dianganghua":[
+                        {"id": 1, "dianganghua":1, "desc":"点杠花(自摸)", "default": 1},
+                        {"id": 2, "dianganghua":2, "desc":"点杠花(点炮)", "default": 0}
+                    ], 	
+                    "cardCount":[
+                        {"id": 1, "value":4, "desc":"4局(限免)", "default": 1, "fangka_count": 0},
+                        {"id": 2, "value":8, "desc":"8局(限免)", "default": 0, "fangka_count": 0}
+                    ], 
+                    "playerType":[
+                        {"id": 2, "desc": "4人", "default": 1, "count":4}
+                    ],
+		    "wanFa":[
+                        {"id": "change3Tiles","desc":"换三张","default":0},
+                        {"id": "clearDouble", "desc": "门清中张", "default": 0},
+                        {"id": "jiangdui", "desc": "幺九将对", "default": 0},
+                        {"id": "tian_hu", "desc": "天地胡", "default": 0}, 
+                        {"id": "hujiaozhuanyi", "desc": "呼叫转移", "default": 0}
+                    ], 
+                    "maxFan": [
+                        {"id": 1, "desc": "2番封顶", "default": 1, "max_fan": 4},
+                        {"id": 2, "desc": "3番封顶", "default": 0, "max_fan":8},
+			{"id": 3, "desc": "4番封顶", "default": 0, "max_fan": 16}
+                    ],
+                    "change3Tiles":[
+                        {"id":0, "desc":"换三张(关闭)", "default": 0,"change_3Tiles": 0},
+                        {"id":1, "desc":"换三张", "default": 1,"change_3Tiles": 1}
+                    ],
+                    "clearDouble":[
+                        {"id":0, "desc":"门清中张(关闭)", "default": 0,"value": 0},
+                        {"id":1, "desc":"门清中张", "default": 1,"value": 1}
+                    ],
+                    "jiangdui": [
+                        {"id": 0, "desc": "幺九将对(关闭)", "default": 0, "jiangdui": 0},
+                        {"id": 1, "desc": "幺九将对", "default": 1, "jiangdui": 1}
+                    ],
+                    "tian_hu": [
+                        {"id": 0, "desc": "天地胡(关闭)", "default": 0, "tian_hu": 0},
+                        {"id": 1, "desc": "天地胡", "default": 1, "tian_hu": 1}
+                    ], 
+                    "zimojiafen":[
+                        {"id":1, "desc":"自摸加番", "default": 0,"zimojiafen": 1},
+                        {"id":2, "desc":"自摸加底", "default": 1,"zimojiafen": 2}
+                    ], 
+                    "hujiaozhuanyi":[
+                        {"id":0, "desc":"呼叫转移(关闭)", "default": 0,"hujiaozhuanyi": 0},
+                        {"id":1, "desc":"呼叫转移", "default": 1,"hujiaozhuanyi": 1}
+                    ]
+            	}
+    },
+    "create_table_weixin_invite_info": {
+        "title": "三缺一，麻将找脚啦",
+        "des": "房间号：$##table_no##,$##play_mode##,$##card_count##局",
+        "url": "http://landing.shediao.com/qipai/laodao/xinjiang.html",
+        "type": "1"
+    },
+    "create_table_weixin_inivite_desc_key": [
+        "cardCount"
+    ],
+    "leave_countdown": 2,
+    "create_table_leave_success": "解散牌桌成功",
+    "create_table_leave_failure": "解散牌桌失败，继续游戏",
+    "create_table_init_fangka": 24,
+    "create_table_countdown": 60,
+    "playmode_forbid_return_fanka": [],
+    "playmode_desc_map": {
+    "luosihu-luosihu": "螺丝胡玩法",
+    "luosihu-xuezhan": "血战玩法",
+    "luosihu-ctxuezhan":"新疆血战麻将"
+    }
+}

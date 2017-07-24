@@ -1,0 +1,16 @@
+{
+ "templates" : {
+  "default"   : [
+   "activity",
+   "message",
+   "xzhanji",
+   "settings"
+  ],
+  "ios_tishen": [
+   "message",
+   "activity",
+   "settings",
+   "xzhanji"
+  ]
+ }
+}

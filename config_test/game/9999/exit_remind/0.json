@@ -1,0 +1,26 @@
+{
+    "7": [
+        {
+            "name": "checkin",
+            "button": "去签到",
+            "tips": "亲~您今天还没有签到，赶紧去领取签到奖励吧！",
+            "conditions": [
+                {
+                    "typeId": "user.cond.NotCheckInToday"
+                }
+            ],
+            "todotasks" : [
+                {"typeId":"hall.goto.checkin"}
+            ]
+        },
+        {
+            "name": "match",
+            "button": "去比赛",
+            "tips": "亲~我会想你的，记得明天再来哦~",
+            "conditions": [],
+            "todotasks" : [
+                {"gameId": 7, "typeId": "hall.goto.enter.game", "enter_param": {"type": "roomlist", "pluginParams": {"gameType": 3}}}
+            ]
+        }
+    ]
+}

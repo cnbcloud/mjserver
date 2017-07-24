@@ -1,0 +1,385 @@
+{
+ "templates"   : [
+  {
+   "positions"   : [
+    {
+     "promotes"    : [
+      {
+       "promotionId" : 9999120201,
+       "conditions"  : [ ]
+      }
+     ],
+     "pos"         : 4
+    }
+   ],
+   "name"        : "h5dt_AI_ios_tishen"
+  }
+ ],
+ "promotions"  : [
+  {
+   "promotionId" : 1,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "subStore"    : "coin",
+     "typeId"      : "hall.goto.shop"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "商城",
+   "url"         : "${http_download}/hall/promote/imgs/store.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 2,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.goto.activity",
+     "url"         : "http://TODO.html"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "活动页面",
+   "url"         : "http://icon.nipic.com/BannerPic/20150126/indexmedia/20150126161003.jpg",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 3,
+   "animate"     : 1,
+   "todotasks"   : [ ],
+   "redPoint"    : [ ],
+   "displayName" : "插件游戏跳转",
+   "url"         : "http://icon.nipic.com/BannerPic/20150126/indexmedia/20150126161003.jpg"
+  },
+  {
+   "promotionId" : 4,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "title"       : "单次充值6元以上，可额外领取",
+     "payOrder"    : {
+      "productId"   : "TY9999D0006001"
+     },
+     "confirmDesc" : "对不起，您不满足领取礼包的条件\n现在就购买\\${product.displayName}(\\${product.price}元)即可领取豪华大礼包！",
+     "confirm"     : 1,
+     "typeId"      : "todotask.firstRecharge",
+     "url"         : "${http_download}/hall/promote/imgs/first_recharge_content.png"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 5,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.goto.vip"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "VIP",
+   "url"         : "${http_download}/hall/promote/imgs/vip.png"
+  },
+  {
+   "promotionId" : 6,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "subCmd"      : {
+      "shareId"     : 100,
+      "typeId"      : "todotask.sharegift.with.shareId"
+     },
+     "typeId"      : "todotask.showInfo",
+     "info"        : "每日首次分享可得1000金币"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "推荐分享",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_dailyshare_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 7,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "templateName": "firstRechargeReceive"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包奖励",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 8,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "title"       : "单次充值6元以上，可额外领取",
+     "payOrder"    : {
+      "productId"   : "TY9999D0006003"
+     },
+     "confirmDesc" : "对不起，您不满足领取礼包的条件\n现在就购买\\${product.displayName}(\\${product.price}元)即可领取豪华大礼包！",
+     "confirm"     : 1,
+     "typeId"      : "todotask.firstRecharge",
+     "url"         : "${http_download}/hall/promote/imgs/first_recharge_content.png"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.wifikey.promote"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "wifikey更多游戏",
+   "url"         : "${http_download}/hall/promote/imgs/wifikey.png"
+  },
+  {
+   "promotionId" : 10,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "title"       : "单次充值6元以上，可额外领取",
+     "payOrder"    : {
+      "productId"   : "TY9999D0006007"
+     },
+     "confirmDesc" : "对不起，您不满足领取礼包的条件\n现在就购买\\${product.displayName}(\\${product.price}元)即可领取豪华大礼包！",
+     "confirm"     : 1,
+     "typeId"      : "todotask.firstRecharge",
+     "url"         : "${http_download}/hall/promote/imgs/first_recharge_content.png"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 11,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "templateName": "firstRechargeTry"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 13,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "templateName": "memberBuy2"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "会员",
+   "url"         : "${http_download}/hall/promote/imgs/member.png"
+  },
+  {
+   "promotionId" : 14,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.migu.music"
+    }
+   ],
+   "redPoint"    : [ ],
+   "url"         : "${http_download}/hall/promote/imgs/icon_music.png"
+  },
+  {
+   "promotionId" : 15,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.download",
+     "url"         : "http://m.10086.cn/wireless/html5/index.html"
+    }
+   ],
+   "redPoint"    : [ ],
+   "url"         : "${http_download}/hall/promote/imgs/icon_download.png"
+  },
+  {
+   "promotionId" : 16,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "templateName": "memberBuy2"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "会员",
+   "url"         : "${http_download}/hall/promote/imgs/member.png"
+  },
+  {
+   "promotionId" : 28,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.goto.lottery"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "抽奖",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_roulette_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 29,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "hall.goto.checkin"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "30日签到",
+   "url"         : "${http_download}/hall/promote/imgs/share.png",
+   "defaultRes"  : "PromoteSignIn"
+  },
+  {
+   "promotionId" : 30,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "templateName": "firstRechargeTry"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首充礼包",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_new_firstrecharge_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 36,
+   "todotasks"   : [
+    {
+     "shareId"     : 101,
+     "typeId"      : "todotask.sharegift.with.shareId"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "多次分享",
+   "url"         : "${http_download}/hall/promote/imgs/share_icon.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9999072001,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "shareId"     : 102,
+     "typeId"      : "todotask.sharegift.with.shareId"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "mj推荐分享",
+   "url"         : "${http_download}/hall/promote/imgs/share_icon.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9999072002,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "shareId"     : 103,
+     "typeId"      : "todotask.sharegift.with.shareId"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "mj多次分享",
+   "url"         : "${http_download}/hall/promote/imgs/share_icon.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9999081701,
+   "animate"     : 0,
+   "todotasks"   : [
+    {
+     "subCmd"      : {
+      "shareId"     : 200,
+      "typeId"      : "todotask.sharegift.with.shareId"
+     },
+     "typeId"      : "todotask.showInfo",
+     "info"        : "首次分享您可获得记牌器x1、奖券x10、幸运卡x1"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "首次分享",
+   "url"         : "${http_download}/hall/promote/imgs/standard_promote_firstshare_0820.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9999120201,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "typeId"      : "todotask.showInfo",
+     "info"        : "当前游戏免费玩：\n\n每日首次登录赠送12张房卡"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "IOS提审弹窗",
+   "url"         : "${http_download}/hall/promote/imgs/texas_store.png",
+   "defaultRes"  : ""
+  },
+  {
+   "promotionId" : 9999121201,
+   "animate"     : 1,
+   "todotasks"   : [
+    {
+     "enter_param" : {
+      "pluginParams": {
+       "tasks"       : [
+        {
+         "action"      : "wechat_share",
+         "params"      : {
+          "content"     : "最地道的哈尔滨麻将\n快找人来整几把",
+          "title"       : "一条哈尔滨麻将",
+          "desc"        : "最地道的哈尔滨麻将，快叫上朋友整两圈",
+          "buttons"     : [
+           {
+            "content"     : "好友",
+            "tasks"       : [ ],
+            "type"        : "1"
+           },
+           {
+            "content"     : "朋友圈",
+            "tasks"       : [ ],
+            "type"        : "0"
+           }
+          ],
+          "url"         : "http://www.shediao.com/landing/ytmj.html"
+         }
+        }
+       ]
+      },
+      "type"        : "roomlist"
+     },
+     "gameId"      : 710,
+     "typeId"      : "hall.goto.enter.game"
+    }
+   ],
+   "redPoint"    : [ ],
+   "displayName" : "哈尔滨分享",
+   "url"         : "${http_download}/hall/promote/imgs/share_icon.png",
+   "defaultRes"  : ""
+  }
+ ]
+}

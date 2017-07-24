@@ -1,0 +1,88 @@
+{
+    "firstRechargeThreshold": 300,
+    "templates"             : [
+        {
+            "name"                  : "goods_conf_3.7XX_hall_test",
+            "shelves"               : [
+                {
+                    "displayName"           : "购买金币",
+                    "iconType"              : "coin",
+                    "name"                  : "coin",
+                    "products"              : [
+                        "TY9999D0030023",
+                        "TY9999D0050010"
+                    ],
+                    "sort"                  : 0,
+                    "visible"               : 1
+                }
+            ]
+        },
+        {
+            "name"                  : "h5dt_AI_difang_fangka",
+            "shelves"               : [
+                {
+                    "displayName"           : "商城",
+                    "iconType"              : "diamond",
+                    "name"                  : "difang_fangka",
+                    "products"              : [
+                        "SD9999R0003001"
+                    ],
+                    "sort"                  : 0,
+                    "visible"               : 1
+                }
+            ]
+        }
+    ],
+    "pricePics"             : {
+        "300"                   : "${http_download}/hall/store/imgs/price_300.png",
+        "68"                    : "${http_download}/hall/store/imgs/price_68.png",
+        "128"                   : "${http_download}/hall/store/imgs/price_128.png",
+        "18"                    : "${http_download}/hall/store/imgs/price_18.png",
+        "12"                    : "${http_download}/hall/store/imgs/price_12.png",
+        "2"                     : "${http_download}/hall/store/imgs/price_2.png",
+        "1"                     : "${http_download}/hall/store/imgs/price_1.png",
+        "10"                    : "${http_download}/hall/store/imgs/price_10.png",
+        "30"                    : "${http_download}/hall/store/imgs/price_30.png",
+        "6"                     : "${http_download}/hall/store/imgs/price_6.png",
+        "5"                     : "${http_download}/hall/store/imgs/price_5.png",
+        "8"                     : "${http_download}/hall/store/imgs/price_8.png",
+        "100"                   : "${http_download}/hall/store/imgs/price_100.png",
+        "1000"                  : "${http_download}/hall/store/imgs/price_1000.png",
+        "50"                    : "${http_download}/hall/store/imgs/price_50.png"
+    },
+    "lastBuy"               : {
+        "desc"                  : "亲，您上次花费\\${product.price}元购买了\\${product.displayName}，是否继续购买该商品",
+        "desc2"                 : "亲，您是否需要花费\\${product.price}元购买\\${product.displayName}",
+        "payOrder"              : {
+            "priceDiamond"          : {
+                "count"                 : 120,
+                "maxCount"              : -1,
+                "minCount"              : 120
+            },
+            "shelves"               : [
+                "member"
+            ]
+        },
+        "subText"               : "是",
+        "subTextExt"            : "逛逛商城"
+    },
+    "deliveryConf"          : {
+        "fail"                  : {
+            "content"               : "啊哦~这真是太尴尬了......请您尽快联系我们的客服！我们一定第一时间为您处理！感谢您对我们工作的支持和理解！",
+            "timefmt"               : "%H点%M分%S秒",
+            "tips"                  : "如有问题请拨打客服电话：4008-098-000",
+            "title"                 : "抱歉，添加物品失败"
+        },
+        "succ"                  : {
+            "content"               : "您于\\${datetime}成功购买\n\\${productName}\n本次消费：\\${consume}\n",
+            "timefmt"               : "%H点%M分%S秒",
+            "tips"                  : "如有问题请拨打客服电话：4008-098-000",
+            "title"                 : "添加物品成功啦！"
+        }
+    },
+    "exchangePricePics"     : {
+        "user:chip"             : "${http_download}/hall/store/imgs/chip_39.png",
+        "user:diamond"          : "${http_download}/hall/store/imgs/diamond.png",
+        "user:coupon"           : "${http_download}/hall/store/imgs/coupon.png"
+    }
+}

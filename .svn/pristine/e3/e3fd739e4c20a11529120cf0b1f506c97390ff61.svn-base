@@ -1,0 +1,88 @@
+{
+ "templates"                         : {
+  "luosihu_v3.901_AI_luosihumajiang": {
+   "desc"                              : "湖北卡五星",
+   "activities"                        : [
+    "lailai_kwx_xinjkyxgg"
+   ]
+  },
+  "luosihu_v3.901_AI_lailaihbmj"     : {
+   "desc"                              : "来来湖北麻将专属活动模板",
+   "activities"                        : [
+    "lailailuosihu_jiankang"
+   ]
+  }
+ },
+ "activities"                        : {
+  "activity_kwx_jkyx1229"             : {
+   "id"                                : "activity_kwx_jkyx1229",
+   "des"                               : "健康游戏公告",
+   "moduleId"                          : "general_btn",
+   "typeid"                            : 1,
+   "name"                              : "健康游戏公告",
+   "server_config"                     : {
+    "start"                             : "2016-12-29 00:00:00",
+    "end"                               : "2018-01-31 00:00:00"
+   },
+   "config"                            : {
+    "button"                            : {
+     "visible"                           : "true",
+     "todoTask"                          : "",
+     "URL"                               : ""
+    },
+    "bgURL"                             : "${http_download}/majiang/difang/ads/mjdf_jkd.jpg"
+   }
+  },
+  "lailai_kwx_xinjkyxgg"              : {
+   "id"                                : "lailai_kwx_xinjkyxgg",
+   "des"                               : "健康游戏公告",
+   "moduleId"                          : "general_btn",
+   "typeid"                            : 1,
+   "name"                              : "健康游戏公告",
+   "server_config"                     : {
+    "start"                             : "2017-01-12 00:00:00",
+    "end"                               : "2018-01-24 00:00:00"
+   },
+   "config"                            : {
+    "button"                            : {
+     "visible"                           : "true",
+     "todoTask"                          : "",
+     "URL"                               : ""
+    },
+    "bgURL"                             : "${http_download}/majiang/difang/ads/lvjkyxggduan.jpg"
+   }
+  },
+  "lailailuosihu_jiankang"           : {
+   "id"                                : "lailailuosihu_jiankang",
+   "des"                               : "适度休闲娱乐，远离非法赌博。",
+   "moduleId"                          : "notice_img",
+   "typeid"                            : 1,
+   "name"                              : "健康游戏公告",
+   "server_config"                     : {
+    "start"                             : "2016-12-15 00:00:00",
+    "end"                               : "2016-12-22 00:00:00"
+   },
+   "config"                            : {
+    "firstButton"                       : {
+     "visible"                           : 0,
+     "action"                            : "",
+     "params"                            : {
+      "duration"                          : 2,
+      "text"                              : "确定"
+     }
+    },
+    "secondButton"                      : {
+     "visible"                           : 0,
+     "action"                            : "",
+     "params"                            : {
+      "duration"                          : 2,
+      "text"                              : "确定"
+     }
+    },
+    "bgURL"                             : "${http_download}/majiang/difang/ads/mjdf_jkd.jpg"
+   },
+   "url"                               : ""
+  }
+ },
+ "modules"                           : { }
+}

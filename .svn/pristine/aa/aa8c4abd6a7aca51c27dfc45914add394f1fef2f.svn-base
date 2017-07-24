@@ -1,0 +1,931 @@
+{
+    "exchangeShare": [
+        {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 8}
+            ], 
+            "value": "112"
+        },
+        {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 3}
+            ], 
+            "value": "110"
+        }
+    ],
+    "matchShare": [
+        {
+            "conditions": [], 
+            "value": "155"
+        }
+    ],
+    "dailyShare": [
+        {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 7}
+            ], 
+            "value": "102"
+        },
+        {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 3}
+            ], 
+            "value": "104"
+        }
+    ],
+    "red_envelope": [
+        {
+            "conditions": [], 
+            "value": "111"
+        }
+    ],
+    "wxRedEnvelope": [
+        {
+            "conditions": [], 
+            "value": "7011"
+        }
+    ],
+    "neituiguang2": [
+        {
+            "conditions": [], 
+            "value": "14"
+        }
+    ],
+    "Relieffund": [
+        {
+            "conditions": [], 
+            "value": "171"
+        }
+    ],
+    "firstshare": [
+        {
+            "conditions": [], 
+            "value": "200"
+        }
+    ],
+    "mj_invite_play_share": [
+        {
+            "conditions": [
+                 {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        50004,
+                        50015,
+                        50031
+                    ]
+                }
+            ],
+            "value": "790"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17298,
+                        17299,
+                        17309,
+                        17324,
+                        17297,
+                        17264,
+                        17294,
+                        17302,
+                        17301,
+                        17316,
+                        17314,
+                        17304,
+                        17295,
+                        17292,
+                        17300,
+                        17273,
+                        17288,
+                        17287,
+                        17243,
+                        17244,
+                        17332,
+                        17325,
+                        17341,
+                        17344,
+                        17350,
+                        17356,
+                        17359,
+                        17461,
+                        17434
+
+                    ]                  
+                }
+            ],
+            "value": "701"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17320,
+                        17330,
+                        17329,
+                        17328,
+                        17327,
+                        17326,
+                        17340,
+                        17343,
+                        17347,
+                        17353
+                    ]                  
+                }
+            ],
+            "value": "702"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17528,
+                        17510,
+                        17492,
+                        17491,
+                        17376,
+                        17361,
+    					17338,
+                        17321,
+    					17312,
+                        17311,
+                        17307,
+                        17281
+                    ]                  
+                }
+            ],
+            "value": "705"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17540,
+                        17514
+                    ]                  
+                }
+            ],
+            "value": "7050"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17348,
+                        17337
+                    ]                  
+                }
+            ],
+            "value": "720"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17345,
+                        17317
+                    ]                  
+                }
+            ],
+            "value": "743"
+	},
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17357,
+                        17358,
+                        17483,
+                        17452
+                    ]                  
+                }
+            ],
+            "value": "758"
+        },
+        {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 710}
+            ],
+            "value": "71001"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.isMyGameid",
+                    "myGameId": 720                
+                }
+            ],
+            "value": "72003"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.isMyGameid",
+                    "myGameId": 6                
+                }
+            ],
+            "value": "603"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17394,
+                        17315, 
+                        17395, 
+                        17346
+                    ]                  
+                }
+            ],
+            "value": "763"
+        },
+    {
+            "conditions": [
+                {"typeId": "user.cond.isMyGameid", "myGameId": 777}
+            ],
+            "value": "77701"
+        }
+    ],
+    "biga_invite_play_share": [
+        {
+            "conditions": [
+                 {
+                    "typeId": "user.cond.isMyGameid",
+                    "myGameId": 152
+                 }
+            ],
+            "value": "15201"
+        }
+    ],
+    "mj_free_fangka_invite_friend_share":[
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17303
+                    ]
+                }
+            ],
+            "value": "710"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17298,
+                        17299,
+                        17309,
+                        17324,
+                        17297,
+                        17264,
+                        17294,
+                        17302,
+                        17301,
+                        17316,
+                        17314,
+                        17304,
+                        17295,
+                        17292,
+                        17300,
+                        17273,
+                        17288,
+                        17287,
+                        17243,
+                        17244,
+                        17332,
+                        17325,
+                        17341,
+                        17344,
+                        17350,
+                        17356,
+                        17359
+
+                    ]                  
+                }
+            ],
+            "value": "703"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17320,
+                        17330,
+                        17329,
+                        17328,
+                        17327,
+                        17326,
+                        17340,
+                        17343,
+                        17347,
+                        17353
+                    ]                  
+                }
+            ],
+            "value": "706"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17528,
+                        17510,
+                        17492,
+                        17491,
+                        17376,
+                        17361,
+    					17338,
+                        17321,
+    					17312,
+                        17311,
+                        17307,
+                        17281
+                    ]                  
+                }
+            ],
+            "value": "707"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                     	17540,
+                        17514
+                    ]                  
+                }
+            ],
+            "value": "7070"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17348,
+                        17337
+                    ]                  
+                }
+            ],
+            "value": "730"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17345,
+                        17317
+                    ]
+                }
+            ],
+            "value": "742"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17357,
+                        17358
+                    ]
+                }
+            ],
+            "value": "752"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17357,
+                        17358,
+                        17483,
+                        17452
+                    ]
+                }
+            ],
+            "value": "757"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.isMyGameid",
+                    "myGameId": 720                
+                }
+            ],
+            "value": "72002"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17394,
+                        17315, 
+                        17395, 
+                        17346
+                    ]                  
+                }
+            ],
+            "value": "762"
+        }
+    ],
+    "mj_free_fangka_invite_friend_quan_share":[
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17303
+                    ]
+                }
+            ],
+            "value": "711"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17298,
+                        17299,
+                        17309,
+                        17324,
+                        17297,
+                        17264,
+                        17294,
+                        17302,
+                        17301,
+                        17316,
+                        17314,
+                        17304,
+                        17295,
+                        17292,
+                        17300,
+                        17273,
+                        17288,
+                        17287,
+                        17243,
+                        17244,
+                        17332,
+                        17325,
+                        17341,
+                        17344,
+                        17350,
+                        17356,
+                        17359
+                    ]                  
+                }
+            ],
+            "value": "704"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17320,
+                        17330,
+                        17329,
+                        17328,
+                        17327,
+                        17326,
+                        17340,
+                        17343,
+                        17347,
+                        17353
+                    ]                  
+                }
+            ],
+            "value": "708"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17528,
+                        17510,
+                        17492,
+                        17491,
+                        17376,
+                        17361,
+    					17338,
+                        17321,
+    					17312,
+                        17311,
+                        17307,
+                        17281
+                    ]                  
+                }
+            ],
+            "value": "709"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                     	17540,
+                        17514
+                    ]                  
+                }
+            ],
+            "value": "7090"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17348,
+                        17337
+                    ]                  
+                }
+            ],
+            "value": "740"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17345,
+                        17317
+                    ]                  
+                }
+            ],
+            "value": "741"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17357,
+                        17358
+                    ]                  
+                }
+            ],
+            "value": "751"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17357,
+                        17358,
+                        17483,
+                        17452
+                    ]                  
+                }
+            ],
+            "value": "756"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.isMyGameid",
+                    "myGameId": 720                
+                }
+            ],
+            "value": "72001"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17394,
+                        17315, 
+                        17395, 
+                        17346
+                    ]                  
+                }
+            ],
+            "value": "761"
+        }
+    ],
+    "pdk_invite_play_share": [
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17277,
+                        17271,
+                        17270,
+                        17257,
+                        17227,
+                        17222,
+                        17046,
+                        17462,
+                        17433,
+                        17405
+                    ]                  
+                }
+            ],
+            "value": "15001"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17468,
+                        17405,
+                        17404
+                    ]                  
+                }
+            ],
+            "value": "15002"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17294,
+                        17332,
+                        17325,
+                        17351,
+                        17331,
+                        17461,
+                        17434,
+                        17405,
+                        17497
+                    ]                  
+                }
+            ],
+            "value": "15011"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17501,
+                        17497
+                    ]                  
+                }
+            ],
+            "value": "15012"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17463,
+                        17440,
+                        17372,
+                        17353,
+                        17330
+                    ]                  
+                }
+            ],
+            "value": "15021"
+        }
+    ],
+    "phz_invite_play_share": [
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17277,
+                        17271,
+                        17270,
+                        17257,
+                        17227,
+                        17222,
+                        17046,
+                        17462,
+                        17433
+                    ]                  
+                }
+            ],
+            "value": "2101"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17294,
+                        17332,
+                        17325,
+                        17351,
+                        17331,
+                        17461,
+                        17434
+                    ]                  
+                }
+            ],
+            "value": "2111"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17463,
+                        17440,
+                        17372,
+                        17353,
+                        17330
+                    ]                  
+                }
+            ],
+            "value": "2121"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17459,
+                        17460
+                    ]                  
+                }
+            ],
+            "value": "2131"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17456,
+                        17465
+                    ]                  
+                }
+            ],
+            "value": "2141"
+        }
+    ],
+    "phz_free_fangka_invite_friend_share":[
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17277,
+                        17271,
+                        17270,
+                        17257,
+                        17227,
+                        17222,
+                        17046,
+                        17462,
+                        17433
+                    ]                  
+                }
+            ],
+            "value": "2101"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17294,
+                        17332,
+                        17325,
+                        17351,
+                        17331,
+                        17461,
+                        17434
+                    ]                  
+                }
+            ],
+            "value": "2111"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17330,
+                        17463,
+                        17400
+                    ]                  
+                }
+            ],
+            "value": "2121"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17459,
+                        17460
+                    ]                  
+                }
+            ],
+            "value": "2131"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17456,
+                        17465
+                    ]                  
+                }
+            ],
+            "value": "2141"
+        }
+    ],
+    "phz_free_fangka_invite_friend_quan_share":[
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17277,
+                        17271,
+                        17270,
+                        17257,
+                        17227,
+                        17222,
+                        17046,
+                        17462,
+                        17433
+                    ]                  
+                }
+            ],
+            "value": "2101"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17294,
+                        17332,
+                        17325,
+                        17351,
+                        17331,
+                        17461,
+                        17434
+                    ]                  
+                }
+            ],
+            "value": "2111"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17330,
+                        17463,
+                        17400
+                    ]                  
+                }
+            ],
+            "value": "2121"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17459,
+                        17460
+                    ]                  
+                }
+            ],
+            "value": "2131"
+        },
+        {
+            "conditions": [
+                {
+                    "typeId": "user.cond.in.clientIds",
+                    "clientIds": [
+                        17456,
+                        17465
+                    ]                  
+                }
+            ],
+            "value": "2141"
+        }
+    ]
+}

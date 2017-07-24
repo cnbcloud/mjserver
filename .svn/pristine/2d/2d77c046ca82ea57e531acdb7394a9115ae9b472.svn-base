@@ -1,0 +1,8 @@
+{
+    "is_h5" : 0,
+    "log_level" : 0, 
+    "log_path" : "${output_path}/log", 
+    "log_server" : [
+        "${http_bilog}"
+    ]
+}

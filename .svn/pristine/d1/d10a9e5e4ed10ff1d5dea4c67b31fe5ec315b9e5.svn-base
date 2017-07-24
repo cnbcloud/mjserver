@@ -1,0 +1,59 @@
+{
+ "templates"  : [
+   {"positions"  : [
+    {
+     "promotes"   : [
+      {
+       "promotionId": 791122701,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 1
+    },
+    {
+     "promotes"   : [
+      {
+       "promotionId": 791122702,
+       "conditions" : [ ]
+      }
+     ],
+     "pos"        : 4
+    }
+   ],
+   "name"       : "queshou_v3.901_AI_ljmajiang"
+  }
+ ],
+ "promotions" : [
+  {
+   "promotionId": 791122701,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "typeId"     : "todotask.showInfo",
+     "info"       : "优惠买卡:llkf111 （微信）\n诚招代理（微信）:\nllkf111"
+    }
+   ],
+   "redPoint"   : [ ],
+   "displayName": "麻将买房卡",
+   "url"        : "${http_download}/majiang/difang/act/icon_tgw_mfk.png",
+   "defaultRes" : ""
+  },
+  {
+   "promotionId": 791122702,
+   "animate"    : 1,
+   "todotasks"  : [
+    {
+     "typeId"     : "todotask.simple.invite"
+    }
+   ],
+   "redPoint"   : [
+    {
+     "typeId"     : "user.cond.HasFreeMark"
+    }
+   ],
+   "displayName": "邀请有礼",
+   "url"        : "${http_download}/hall/promote/imgs/share_icon_fenxiang791.png",
+   "defaultRes" : ""
+  }
+ ]
+}
