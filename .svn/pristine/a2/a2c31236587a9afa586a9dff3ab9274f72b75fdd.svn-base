@@ -1,9 +1,0 @@
-{
-  "vm1" : {
-    "internet" : "59.110.221.246",
-    "intranet" : "10.150.30.197",
-    "pwd" : "qipai",
-    "ssh" : 22,
-    "user" : "qipai"
-  }
-}
