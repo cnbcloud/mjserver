@@ -126,6 +126,14 @@ class MRoundResults(object):
                 else:
                     patternValue = eachPattern[0]
                 patternValue=[patternValue]
+                if self.playMode in ["huanghuang-shiyan","huanghuang-qianjiang","huanghuang-suizhou","huanghuang-test2"]:
+                    if patternCount>1:
+                        patternValue[0]=eachPattern[0]+"*"+str(patternCount)
+                    else:
+                        patternValue[0] = eachPattern[0]
+                    if eachPattern[1]:
+                        patternValue[0]+="#%s"%(str(int(eachPattern[1])*patternCount))
+                    patternValue.append(eachPattern[2])
                     
                 if patternValue not in fanPatternList:
                     fanPatternList.append(patternValue)

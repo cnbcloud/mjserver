@@ -255,11 +255,11 @@ class MLuosihuOneResult(MOneResult):
                 score[self.lastSeatId] -= winScore
                 score[winSeatId] = winScore
                 if self.playMode == 'luosihu-ctxuezhan' and self.tableConfig.get(MTDefine.HUJIAOZHUANYI, 0) and paoResult:
-                    player = self.tableTileMgr.players[self.lastSeatId]
+		    player = self.tableTileMgr.players[self.lastSeatId]
                     gangCount = len(player.gangTiles)
                     score[self.lastSeatId] -= player.gangTiles[gangCount - 1].styleScore
                     score[winSeatId] += player.gangTiles[gangCount - 1].styleScore
-                    ftlog.debug('MLuosihuOneResult.calcWin hujiaozhuanyi score:',player.gangTiles[gangCount - 1].styleScore)
+		    ftlog.debug('MLuosihuOneResult.calcWin hujiaozhuanyi score:',player.gangTiles[gangCount - 1].styleScore)
                 # piaoScore = self.piaoProcessor.getPiaoPointsBySeats(winSeatId, self.lastSeatId)
                 # score[self.lastSeatId] -= piaoScore
                 # score[winSeatId] += piaoScore
@@ -271,30 +271,30 @@ class MLuosihuOneResult(MOneResult):
                     finalResult = []
                     if seatId != winSeatId:
                         #if self.playMode == 'luosihu-xuezhan' or self.playMode == 'luosihu-ctxuezhan':
-                        if self.playMode == 'luosihu-ctxuezhan':
-                            if not self.tableTileMgr.players[seatId].isWon():
+			if self.playMode == 'luosihu-ctxuezhan':
+			    if not self.tableTileMgr.players[seatId].isWon():    
                                 finalResult.extend(winnerResult)
                                 ftlog.info('MLuosihuOneResult.calcWin mingbaishu info 1:', looserResults, seatId)
                                 looserResult = self.getLooserResults(winSeatId,seatId)
                                 finalResult.extend(looserResult)
                                 looserResults[seatId] = looserResult
                                 tableScore = self.getScoreByResults(finalResult, maxFan)
-
-                                if self.tableConfig.get(MTDefine.ZIMOJIAFEN, 1) == 2:
+				
+				if self.tableConfig.get(MTDefine.ZIMOJIAFEN, 1) == 2:
                                     winBase = self.tableConfig.get(MTDefine.WIN_BASE, 1)
                                     if tableScore + winBase <= maxFan:
-                                        tableScore += winBase
+					tableScore += winBase
 
                                 if self.gangKai and self.tableConfig.get(MTDefine.DIANGANGHUA, 1) == 2:
                                     gangFromSeatId = self.tableTileMgr.players[winSeatId].gangTilesFromSeat
                                     if len(gangFromSeatId) > 0 and gangFromSeatId[-1]['playerSeatId'] != winSeatId:
                                         if seatId != gangFromSeatId[-1]['playerSeatId']:
                                             tableScore = 0
-
+				
                                 score[seatId] = -tableScore
                                 winScore += tableScore
                         else:
-                            finalResult.extend(winnerResult)
+	                    finalResult.extend(winnerResult)
                             ftlog.info('MLuosihuOneResult.calcWin mingbaishu info 2:', looserResults, seatId)
                             looserResult = self.getLooserResults(winSeatId,seatId)
                             finalResult.extend(looserResult)
@@ -323,7 +323,7 @@ class MLuosihuOneResult(MOneResult):
                             paoResult.append({'name':'一炮双响', "index":0, "score":0, 'fanSymbol':''})
             else:
                 # 点炮，赢的人平胡
-                if self.qiangGang:
+	        if self.qiangGang:
                     self.results[self.KEY_WIN_MODE][winSeatId] = MOneResult.WIN_MODE_QIANGGANGHU
                 else:
                     self.results[self.KEY_WIN_MODE][winSeatId] = MOneResult.WIN_MODE_PINGHU
@@ -348,7 +348,7 @@ class MLuosihuOneResult(MOneResult):
         self.results[self.KEY_NAME] = MOneResult.KEY_TYPE_NAME_HU
         self.results[self.KEY_TYPE] = MOneResult.KEY_TYPE_NAME_HU
 
-        ftlog.info('MYunnanOneResult calcScore:KEY_SCORE:', self.results[self.KEY_SCORE])  
+        ftlog.info('MYunnanOneResult calcScore:KEY_SCORE:', self.results[self.KEY_SCORE])
         ftlog.info('MYunnanOneResult calcScore:KEY_NAME:', self.results[self.KEY_NAME])
         ftlog.info('MYunnanOneResult calcScore:KEY_TYPE:', self.results[self.KEY_TYPE])
         ftlog.info('MYunnanOneResult calcScore:KEY_WIN_MODE:', self.results[self.KEY_WIN_MODE])
@@ -1034,10 +1034,6 @@ class MLuosihuOneResult(MOneResult):
             if tileArr[tile] == 4:
                 winnerGen += 1
         gangTiles = self.playerAllTiles[self.winSeatId][MHand.TYPE_GANG]
-        pengTiles = self.playerAllTiles[self.winSeatId][MHand.TYPE_PENG]
-        for pengTile in pengTiles:
-            if pengTile['pattern'][0] in handTiles:
-                winnerGen = winnerGen + 1
         winnerGen += len(gangTiles)
         pengTiles = self.playerAllTiles[self.winSeatId][MHand.TYPE_PENG]
         for pengTile in pengTiles:

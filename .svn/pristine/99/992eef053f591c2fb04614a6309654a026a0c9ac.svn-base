@@ -2665,7 +2665,7 @@ class MajiangTableLogic(object):
         
     def dropTile(self, seatId, dropTile, exInfo = {}):
         """玩家出牌"""
-        ftlog.info( 'table.dropTile seatId:', seatId, ' dropTile:', dropTile)
+        ftlog.debug( 'table.dropTile seatId:', seatId, ' dropTile:', dropTile)
         
         # 如果不是轮到此玩家出牌，不响应
         if self.curSeat != seatId:
